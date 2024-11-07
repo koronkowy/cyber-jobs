@@ -1,13 +1,14 @@
 document.addEventListener('DOMContentLoaded', () => {
     let allJobs = []; // To store all jobs for easy filtering
   
-    fetch('jobs_with_categories.json') // Adjusted to your updated JSON file
+    // Fetching the JSON file from the root directory of your GitHub Pages
+    fetch('jobs.json') 
       .then(response => response.json())
       .then(data => {
         allJobs = data; // Store jobs data
         renderJobs(allJobs); // Initial render of all jobs
       })
-      .catch(error => console.error('Error loading jobs:', error));
+      .catch(error => console.error('Error loading jobs:', error)); // Log if there's an error
   
     // Function to render jobs
     function renderJobs(jobs) {
