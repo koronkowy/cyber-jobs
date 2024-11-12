@@ -107,7 +107,7 @@ body {
   .category-cybersecurity { background-color: blue; }
   .category-tech { background-color: green; }
   .category-defence { background-color: red; }
-  .category-recruiting { background-color: yellow; color: black; }
+  .category-recruiting-company { background-color: yellow; color: black; }
   .category-nonprofit { background-color: purple; color: white; }
   
   /* Remove scrollbar visibility for a cleaner look */

@@ -606,14 +606,14 @@
     "companyWebsite":"https:\/\/lacuna-talent.com\/",
     "careersPage":null,
     "notes":"",
-    "category":"Recruiting Company"
+    "category":"recruiting-company"
   },
   {
     "companyName":"CyberSpring",
     "companyWebsite":"https:\/\/cyberspring.io\/",
     "careersPage":"https:\/\/cyberspring.io\/latest-jobs\/",
     "notes":"",
-    "category":"Recruiting Company"
+    "category":"recruiting-company"
   },
   {
     "companyName":"ZeroEyes",
@@ -781,7 +781,7 @@
     "companyWebsite":"https:\/\/intaso.co\/",
     "careersPage":"https:\/\/intaso.co\/jobs",
     "notes":"",
-    "category":"Recruiting Company"
+    "category":"recruiting-company"
   },
   {
     "companyName":"Kace Corporation",
@@ -1117,7 +1117,7 @@
     "companyWebsite":"https:\/\/www.locke44.com\/",
     "careersPage":"https:\/\/www.locke44.com\/jobs",
     "notes":"",
-    "category":"Recruiting Company"
+    "category":"recruiting-company"
   },
   {
     "companyName":"Docusign",
@@ -1132,5 +1132,313 @@
     "careersPage":"https:\/\/pinkerton.com\/careers\/current-openings",
     "notes":"",
     "category":"Defence"
+  },
+  {
+    "companyName": "Armis",
+    "companyWebsite": "https:\/\/www.armis.com\/",
+    "careersPage": "https:\/\/www.armis.com\/armis-careers\/",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Checkmarx",
+    "companyWebsite": "https:\/\/checkmarx.com\/",
+    "careersPage": "https:\/\/checkmarx.com\/company\/careers",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Island",
+    "companyWebsite": "https:\/\/www.island.io\/",
+    "careersPage": "https:\/\/www.island.io\/careers",
+    "notes": "",
+    "category": "Tech"
+  },
+  {
+    "companyName": "Recorded Future",
+    "companyWebsite": "https:\/\/www.recordedfuture.com\/",
+    "careersPage": "https:\/\/www.recordedfuture.com\/careers",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Veeam",
+    "companyWebsite": "https:\/\/www.veeam.com\/",
+    "careersPage": "https:\/\/careers.veeam.com\/",
+    "notes": "",
+    "category": "Cybersecurity, Tech"
+  },
+  {
+    "companyName": "Abnormal",
+    "companyWebsite": "https:\/\/abnormalsecurity.com\/",
+    "careersPage": "https:\/\/careers.abnormalsecurity.com\/",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Dazz",
+    "companyWebsite": "https:\/\/www.dazz.io\/",
+    "careersPage": "https:\/\/www.dazz.io\/who-we-are#openings",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Tigera",
+    "companyWebsite": "https:\/\/www.tigera.io\/",
+    "careersPage": "https:\/\/www.tigera.io\/careers\/",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Keyfactor",
+    "companyWebsite": "https:\/\/www.keyfactor.com\/",
+    "careersPage": "https:\/\/www.keyfactor.com\/careers\/",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Own Backup",
+    "companyWebsite": "https:\/\/www.owndata.com\/",
+    "careersPage": "https:\/\/www.owndata.com\/careers",
+    "notes": "",
+    "category": "Cybersecurity, Tech"
+  },
+  {
+    "companyName": "Adaptive Shield",
+    "companyWebsite": "https:\/\/www.adaptive-shield.com\/",
+    "careersPage": "https:\/\/www.adaptive-shield.com\/careers\/",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Brinqa",
+    "companyWebsite": "https:\/\/www.brinqa.com\/",
+    "careersPage": "https:\/\/www.brinqa.com\/about-us\/#careers",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Calamu",
+    "companyWebsite": "https:\/\/www.calamu.com\/",
+    "careersPage": "https:\/\/www.calamu.com\/careers",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Certik",
+    "companyWebsite": "https:\/\/www.certik.com\/",
+    "careersPage": "https:\/\/www.certik.com\/company\/careers",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Corelight",
+    "companyWebsite": "https:\/\/corelight.com\/",
+    "careersPage": "https:\/\/corelight.com\/company\/careers\/",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Cycode",
+    "companyWebsite": "https:\/\/cycode.com\/",
+    "careersPage": "https:\/\/cycode.com\/careers\/",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Delinea",
+    "companyWebsite": "https:\/\/delinea.com\/",
+    "careersPage": "https:\/\/delinea.com\/careers",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Detectify",
+    "companyWebsite": "https:\/\/detectify.com\/",
+    "careersPage": "https:\/\/career.detectify.com\/",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "DNSFilter",
+    "companyWebsite": "https:\/\/www.dnsfilter.com\/",
+    "careersPage": "https:\/\/www.dnsfilter.com\/careers",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "DoControl",
+    "companyWebsite": "https:\/\/www.docontrol.io\/",
+    "careersPage": "https:\/\/www.docontrol.io\/careers",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Elisity",
+    "companyWebsite": "https:\/\/www.elisity.com\/",
+    "careersPage": "https:\/\/www.elisity.com\/careers",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Firemon",
+    "companyWebsite": "https:\/\/www.firemon.com\/",
+    "careersPage": "https:\/\/www.firemon.com\/careers\/",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Identiq",
+    "companyWebsite": "https:\/\/www.identiq.com\/",
+    "careersPage": "https:\/\/www.identiq.com\/careers\/",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Immersivelabs",
+    "companyWebsite": "https:\/\/www.immersivelabs.com\/",
+    "careersPage": "https:\/\/www.immersivelabs.com\/careers",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Inky",
+    "companyWebsite": "https:\/\/www.inky.com\/",
+    "careersPage": "https:\/\/www.inky.com\/careers",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Jit",
+    "companyWebsite": "https:\/\/www.jit.io\/",
+    "careersPage": "https:\/\/www.jit.io\/career",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Keeper Security",
+    "companyWebsite": "https:\/\/www.keepersecurity.com\/",
+    "careersPage": "https:\/\/www.keepersecurity.com\/jobs.html",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Ory",
+    "companyWebsite": "https:\/\/www.ory.sh\/",
+    "careersPage": "https:\/\/www.ory.sh\/jobs\/",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Persona",
+    "companyWebsite": "https:\/\/withpersona.com\/",
+    "careersPage": "https:\/\/withpersona.com\/careers",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "plainID",
+    "companyWebsite": "https:\/\/www.plainid.com\/",
+    "careersPage": "https:\/\/www.plainid.com\/careers\/",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "PlexTrac",
+    "companyWebsite": "https:\/\/plextrac.com\/",
+    "careersPage": "https:\/\/plextrac.com\/company\/careers\/",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Prelude",
+    "companyWebsite": "https:\/\/www.preludesecurity.com\/",
+    "careersPage": "https:\/\/www.preludesecurity.com\/company#openroles",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Prevalent",
+    "companyWebsite": "https:\/\/www.prevalent.net\/",
+    "careersPage": "https:\/\/www.prevalent.net\/careers\/",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Reco Collaboration Security",
+    "companyWebsite": "https:\/\/www.reco.ai\/",
+    "careersPage": "https:\/\/www.reco.ai\/careers",
+    "notes": "",
+    "category": "Cybersecurity"
+  },  
+  {
+  "companyName": "Secure W2",
+  "companyWebsite": "https:\/\/www.securew2.com\/",
+  "careersPage": "https:\/\/www.securew2.com\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Semperis",
+  "companyWebsite": "https:\/\/www.semperis.com\/",
+  "careersPage": "https:\/\/www.semperis.com\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Shift 5",
+  "companyWebsite": "https:\/\/shift5.io\/",
+  "careersPage": "https:\/\/shift5.io\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "tailscale",
+  "companyWebsite": "https:\/\/tailscale.com\/",
+  "careersPage": "https:\/\/tailscale.com\/careers",
+  "notes": "",
+  "category": "Cybersecurity, Tech"
+  },
+  {
+  "companyName": "Torq",
+  "companyWebsite": "https:\/\/torq.io\/",
+  "careersPage": "https:\/\/torq.io\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Valimail",
+  "companyWebsite": "https:\/\/www.valimail.com\/",
+  "careersPage": "https:\/\/www.valimail.com\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Veriti",
+  "companyWebsite": "https:\/\/veriti.ai\/",
+  "careersPage": "https:\/\/veriti.ai\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Atredis Partners",
+  "companyWebsite": "https:\/\/www.atredis.com\/",
+  "careersPage": "https:\/\/www.atredis.com\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Interlaced",
+  "companyWebsite": "https:\/\/interlaced.io\/",
+  "careersPage": "https:\/\/interlaced.io\/join-our-team-of-it-professionals\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Aikido",
+  "companyWebsite": "https:\/\/www.aikido.dev\/",
+  "careersPage": "https:\/\/www.aikido.dev\/careers",
+  "notes": "",
+  "category": "Cybersecurity, Tech"
   }
 ]
