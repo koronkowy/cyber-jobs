@@ -1353,7 +1353,7 @@
   {
     "companyName": "Prelude",
     "companyWebsite": "https:\/\/www.preludesecurity.com\/",
-    "careersPage": "https:\/\/www.preludesecurity.com\/company#openroles",
+    "careersPage": "https:\/\/www.preludesecurity.com\/company\/careers#roles",
     "notes": "",
     "category": "Cybersecurity"
   },
@@ -1440,5 +1440,33 @@
   "careersPage": "https:\/\/www.aikido.dev\/careers",
   "notes": "",
   "category": "Cybersecurity, Tech"
-  }
+  },
+  {
+    "companyName": "Orchid Security",
+    "companyWebsite": "https:\/\/www.orchid.security\/",
+    "careersPage": "https:\/\/www.orchid.security\/company",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Spikerz",
+    "companyWebsite": "https:\/\/www.spikerz.com\/",
+    "careersPage": "https:\/\/www.spikerz.com\/careers",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Prove",
+    "companyWebsite": "https:\/\/www.prove.com\/",
+    "careersPage": "https:\/\/www.prove.com\/careers",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Rubrik",
+    "companyWebsite": "https:\/\/www.rubrik.com\/",
+    "careersPage": "https:\/\/www.rubrik.com\/company\/careers",
+    "notes": "",
+    "category": "Cybersecurity"
+  }  
 ]
