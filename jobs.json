@@ -1468,5 +1468,26 @@
     "careersPage": "https:\/\/www.rubrik.com\/company\/careers",
     "notes": "",
     "category": "Cybersecurity"
+  },  
+  {
+    "companyName": "Thistle Technologies",
+    "companyWebsite": "https:\/\/thistle.tech\/",
+    "careersPage": "https:\/\/jobs.lever.co\/thistletechnologies",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Mindgard",
+    "companyWebsite": "https:\/\/mindgard.ai\/",
+    "careersPage": "https:\/\/mindgard.ai\/careers",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "NetRise",
+    "companyWebsite": "https:\/\/www.netrise.io\/",
+    "careersPage": "https:\/\/www.netrise.io\/company\/careers",
+    "notes": "",
+    "category": "Cybersecurity"
   }  
 ]
