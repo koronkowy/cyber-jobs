@@ -1489,5 +1489,54 @@
     "careersPage": "https:\/\/www.netrise.io\/company\/careers",
     "notes": "",
     "category": "Cybersecurity"
-  }  
+  },
+  {
+    "companyName": "Blackcloak",
+    "companyWebsite": "https:\/\/blackcloak.io\/",
+    "careersPage": "https:\/\/blackcloak.io\/careers\/",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "NetAlly",
+    "companyWebsite": "https:\/\/www.netally.com\/",
+    "careersPage": "https:\/\/www.netally.com\/about-us\/careers\/",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "World Wide Technology",
+    "companyWebsite": "https:\/\/www.wwt.com\/",
+    "careersPage": "https:\/\/www.wwt.com\/corporate\/why-wwt\/careers",
+    "notes": "",
+    "category": "Tech, Cybersecurity"
+  },
+  {
+    "companyName": "GuidePoint Security",
+    "companyWebsite": "https:\/\/www.guidepointsecurity.com\/",
+    "careersPage": "https:\/\/www.guidepointsecurity.com\/careers\/",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Claroty",
+    "companyWebsite": "https:\/\/claroty.com\/",
+    "careersPage": "https:\/\/claroty.com\/careers",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Forescout",
+    "companyWebsite": "https:\/\/www.forescout.com\/",
+    "careersPage": "https:\/\/www.forescout.com\/company\/careers\/",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "SecurityScorecard",
+    "companyWebsite": "https:\/\/securityscorecard.com\/",
+    "careersPage": "https:\/\/securityscorecard.com\/company\/careers\/",
+    "notes": "",
+    "category": "Cybersecurity"
+  }              
 ]
