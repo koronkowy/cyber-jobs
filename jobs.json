@@ -1538,5 +1538,19 @@
     "careersPage": "https:\/\/securityscorecard.com\/company\/careers\/",
     "notes": "",
     "category": "Cybersecurity"
-  }              
+  },
+  {
+    "companyName": "VerSprite Cybersecurity",
+    "companyWebsite": "https:\/\/versprite.com\/",
+    "careersPage": "https:\/\/versprite.com\/cybersecurity-careers\/",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "ADT",
+    "companyWebsite": "https:\/\/www.adt.com\/",
+    "careersPage": "https:\/\/jobs.adt.com\/",
+    "notes": "",
+    "category": "Tech, Cybersecurity"
+  }                  
 ]
