@@ -1552,5 +1552,47 @@
     "careersPage": "https:\/\/jobs.adt.com\/",
     "notes": "",
     "category": "Tech, Cybersecurity"
-  }                  
+  },
+  {
+    "companyName": "Oligo Security",
+    "companyWebsite": "https:\/\/www.oligo.security\/",
+    "careersPage": "https:\/\/www.oligo.security\/company\/careers",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Seraphic Security",
+    "companyWebsite": "https:\/\/seraphicsecurity.com\/",
+    "careersPage": "https:\/\/seraphicsecurity.com\/careers\/",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Clutch Security",
+    "companyWebsite": "https:\/\/www.clutch.security\/",
+    "careersPage": "https:\/\/www.clutch.security\/join",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Token Security",
+    "companyWebsite": "https:\/\/www.token.security\/",
+    "careersPage": "https:\/\/www.token.security\/company\/careers",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Observo AI",
+    "companyWebsite": "https:\/\/www.observo.ai\/",
+    "careersPage": "https:\/\/www.observo.ai\/careers",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Hypori",
+    "companyWebsite": "https:\/\/www.hypori.com\/",
+    "careersPage": "https:\/\/www.hypori.com\/careers",
+    "notes": "",
+    "category": "Cybersecurity"
+  }                        
 ]
