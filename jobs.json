@@ -777,11 +777,11 @@
     "category":"Cybersecurity"
   },
   {
-    "companyName":"Intaso",
-    "companyWebsite":"https:\/\/intaso.co\/",
-    "careersPage":"https:\/\/intaso.co\/jobs",
-    "notes":"",
-    "category":"recruiting-company"
+    "companyName": "Intaso",
+    "companyWebsite": "https:\/\/intaso.co\/",
+    "careersPage": "https:\/\/intaso.co\/jobs",
+    "notes": "",
+    "category": "recruiting-company"
   },
   {
     "companyName":"Kace Corporation",
@@ -1601,5 +1601,26 @@
     "careersPage": "https:\/\/www.solluciopartners.com\/careers\/",
     "notes": "",
     "category": "Cybersecurity, Tech"
-  }                          
+  },
+  {
+    "companyName": "CyberScoop",
+    "companyWebsite": "https:\/\/cyberscoop.com\/",
+    "careersPage": "https:\/\/scoopnewsgroup.com\/workhere\/",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "ServiceNow",
+    "companyWebsite": "https:\/\/www.servicenow.com\/",
+    "careersPage": "https:\/\/careers.servicenow.com\/",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Cyera",
+    "companyWebsite": "https:\/\/www.cyera.io\/",
+    "careersPage": "https:\/\/www.comeet.com\/jobs\/cyera\/17.008",
+    "notes": "",
+    "category": "Cybersecurity"
+  }                                
 ]
