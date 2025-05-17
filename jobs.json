@@ -1671,5 +1671,26 @@
     "careersPage": "https:\/\/pangea.cloud\/careers\/",
     "notes": "",
     "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Resourcely",
+    "companyWebsite": "https:\/\/www.resourcely.io\/",
+    "careersPage": "https:\/\/www.resourcely.io\/careers",
+    "notes": "",
+    "category": "Cybersecurity, Tech"
+  },
+  {
+    "companyName": "EclecticIQ",
+    "companyWebsite": "https:\/\/www.eclecticiq.com\/",
+    "careersPage": "https:\/\/eclecticiq.bamboohr.com\/careers",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Expel",
+    "companyWebsite": "https:\/\/expel.com\/",
+    "careersPage": "https:\/\/expel.com\/about\/careers\/",
+    "notes": "",
+    "category": "Cybersecurity"
   }                                
 ]
