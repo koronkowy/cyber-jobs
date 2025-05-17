@@ -1622,5 +1622,54 @@
     "careersPage": "https:\/\/www.comeet.com\/jobs\/cyera\/17.008",
     "notes": "",
     "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Panther Labs",
+    "companyWebsite": "https:\/\/panther.com\/",
+    "careersPage": "https:\/\/panther.com\/company\/careers",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Tines",
+    "companyWebsite": "https:\/\/www.tines.com\/",
+    "careersPage": "https:\/\/www.tines.com\/careers\/",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Swimlane",
+    "companyWebsite": "https:\/\/swimlane.com\/",
+    "careersPage": "https:\/\/swimlane.com\/careers\/",
+    "notes": "",
+    "category": "Cybersecurity, Tech"
+  },
+  {
+    "companyName": "Hunters Security",
+    "companyWebsite": "https:\/\/www.hunters.security\/",
+    "careersPage": "https:\/\/www.hunters.security\/careers",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Stairwell",
+    "companyWebsite": "https:\/\/stairwell.com\/",
+    "careersPage": "https:\/\/stairwell.com\/about\/careers\/",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Securonix",
+    "companyWebsite": "https:\/\/www.securonix.com\/",
+    "careersPage": "https:\/\/www.securonix.com\/company\/careers\/",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Pangea",
+    "companyWebsite": "https:\/\/pangea.cloud\/",
+    "careersPage": "https:\/\/pangea.cloud\/careers\/",
+    "notes": "",
+    "category": "Cybersecurity"
   }                                
 ]
