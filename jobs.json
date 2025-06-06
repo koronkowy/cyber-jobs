@@ -1692,5 +1692,110 @@
     "careersPage": "https:\/\/expel.com\/about\/careers\/",
     "notes": "",
     "category": "Cybersecurity"
-  }                                
+  },
+  {
+  "companyName": "Team Cymru",
+  "companyWebsite": "https:\/\/www.team-cymru.com\/",
+  "careersPage": "https:\/\/www.team-cymru.com\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Maltego",
+  "companyWebsite": "https:\/\/www.maltego.com\/",
+  "careersPage": "https:\/\/www.maltego.com\/about-us\/#careers-at-maltego",
+  "notes": "",
+  "category": "Cybersecurity, Tech"
+  },
+  {
+  "companyName": "Insane Cyber",
+  "companyWebsite": "https:\/\/insanecyber.com\/",
+  "careersPage": "https:\/\/insanecyber.com\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Nord",
+  "companyWebsite": "https:\/\/nordstellar.com\/",
+  "careersPage": "https:\/\/nordsecurity.com\/careers",
+  "notes": "",
+  "category": "Cybersecurity, Tech"
+  },
+  {
+  "companyName": "Silent Push",
+  "companyWebsite": "https:\/\/www.silentpush.com\/",
+  "careersPage": "https:\/\/www.silentpush.com\/company\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "SOCRadar",
+  "companyWebsite": "https:\/\/socradar.io\/",
+  "careersPage": "https:\/\/socradar.breezy.hr\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Cado Security",
+  "companyWebsite": "https:\/\/www.cadosecurity.com\/",
+  "careersPage": "https:\/\/www.cadosecurity.com\/open-careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Uptycs",
+  "companyWebsite": "https:\/\/www.uptycs.com\/",
+  "careersPage": "https:\/\/www.uptycs.com\/about\/career",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Exaforce",
+  "companyWebsite": "https:\/\/www.exaforce.com\/",
+  "careersPage": "https:\/\/www.exaforce.com\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Cyber Detector",
+  "companyWebsite": "https:\/\/cyber-detector.com\/",
+  "careersPage": "https:\/\/cyber-detector.com\/career\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Secret Double Octopus",
+  "companyWebsite": "https:\/\/doubleoctopus.com\/",
+  "careersPage": "https:\/\/doubleoctopus.com\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity, Tech"
+  },
+  {
+  "companyName": "Clario Tech",
+  "companyWebsite": "https:\/\/clario.tech\/",
+  "careersPage": "https:\/\/jobs.dou.ua\/companies\/clario\/vacancies\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Drata",
+  "companyWebsite": "https:\/\/drata.com\/",
+  "careersPage": "https:\/\/drata.com\/about\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Deepwatch",
+  "companyWebsite": "https:\/\/www.deepwatch.com\/",
+  "careersPage": "https:\/\/www.deepwatch.com\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Infosec Global",
+  "companyWebsite": "https:\/\/www.infosecglobal.com\/",
+  "careersPage": "https:\/\/www.infosecglobal.com\/company\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  }                               
 ]
