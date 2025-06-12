@@ -375,7 +375,7 @@
     "companyWebsite":"https:\/\/www.fortra.com\/",
     "careersPage":"https:\/\/www.fortra.com\/about\/careers",
     "notes":"",
-    "category":""
+    "category":"Cybersecurity"
   },
   {
     "companyName":"NCC Group",
@@ -1795,6 +1795,209 @@
   "companyName": "Infosec Global",
   "companyWebsite": "https:\/\/www.infosecglobal.com\/",
   "careersPage": "https:\/\/www.infosecglobal.com\/company\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "GitLab",
+  "companyWebsite": "https:\/\/about.gitlab.com\/",
+  "careersPage": "https:\/\/about.gitlab.com\/jobs\/",
+  "notes": "",
+  "category": "Cybersecurity, Tech"
+  },
+  {
+  "companyName": "CyberMaxx",
+  "companyWebsite": "https:\/\/www.cybermaxx.com\/",
+  "careersPage": "https:\/\/www.cybermaxx.com\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "EVOTEK",
+  "companyWebsite": "https:\/\/www.evotek.com\/",
+  "careersPage": "https:\/\/www.evotek.com\/careers\/",
+  "notes": "",
+  "category": "Tech, Cybersecurity"
+  },
+  {
+  "companyName": "CommandLink",
+  "companyWebsite": "https:\/\/www.commandlink.com\/",
+  "careersPage": "https:\/\/www.commandlink.com\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Piper Companies",
+  "companyWebsite": "https:\/\/www.pipercompanies.com\/",
+  "careersPage": "https:\/\/www.pipercompanies.com\/find-jobs-employment-agency\/",
+  "notes": "",
+  "category": "Tech, recruiting-company, Cybersecurity"
+  },
+  {
+  "companyName": "7AI",
+  "companyWebsite": "https:\/\/7ai.com\/",
+  "careersPage": "https:\/\/7ai.com\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Protect AI",
+  "companyWebsite": "https:\/\/protectai.com\/",
+  "careersPage": "https:\/\/protectai.com\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "TCM Security",
+  "companyWebsite": "https:\/\/tcm-sec.com\/",
+  "careersPage": "https:\/\/jobs.gusto.com\/boards\/tcm-security-fdd86428-8a24-4ea2-9616-7c5ced48de44",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Cloudflare",
+  "companyWebsite": "https:\/\/www.cloudflare.com\/",
+  "careersPage": "https:\/\/www.cloudflare.com\/careers\/",
+  "notes": "",
+  "category": "Tech, Cybersecurity"
+  },
+  {
+  "companyName": "PortSwigger",
+  "companyWebsite": "https:\/\/portswigger.net\/",
+  "careersPage": "https:\/\/portswigger.net\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "GitHub",
+  "companyWebsite": "https:\/\/github.com\/",
+  "careersPage": "https:\/\/www.github.careers\/careers-home",
+  "notes": "",
+  "category": "Tech, Cybersecurity"
+  },
+  {
+  "companyName": "Indy Kite",
+  "companyWebsite": "https:\/\/www.indykite.com\/",
+  "careersPage": "https:\/\/www.indykite.com\/careers",
+  "notes": "",
+  "category": "Tech, Cybersecurity"
+  },
+  {
+  "companyName": "Cyware",
+  "companyWebsite": "https:\/\/www.cyware.com\/",
+  "careersPage": "https:\/\/www.cyware.com\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Anvilogic",
+  "companyWebsite": "https:\/\/www.anvilogic.com\/",
+  "careersPage": "https:\/\/www.anvilogic.com\/company\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Bonfy",
+  "companyWebsite": "https:\/\/www.bonfy.ai\/",
+  "careersPage": "https:\/\/www.bonfy.ai\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Deep Seas",
+  "companyWebsite": "https:\/\/www.deepseas.com\/",
+  "careersPage": "https:\/\/deepseas.pinpointhq.com\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Mend AI",
+  "companyWebsite": "https:\/\/www.mend.io\/",
+  "careersPage": "https:\/\/www.mend.io\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Black Duck",
+  "companyWebsite": "https:\/\/www.blackduck.com\/",
+  "careersPage": "https:\/\/www.blackduck.com\/company\/careers.html",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Deep Instinct",
+  "companyWebsite": "https:\/\/www.deepinstinct.com\/",
+  "careersPage": "https:\/\/www.deepinstinct.com\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Intuition Machines",
+  "companyWebsite": "https:\/\/www.imachines.com\/",
+  "careersPage": "https:\/\/apply.workable.com\/imachines\/",
+  "notes": "",
+  "category": "Tech, Cybersecurity"
+  },
+  {
+  "companyName": "Sprocket Security",
+  "companyWebsite": "https:\/\/www.sprocketsecurity.com\/",
+  "careersPage": "https:\/\/www.sprocketsecurity.com\/company\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Kudelski Security",
+  "companyWebsite": "https:\/\/kudelskisecurity.com\/",
+  "careersPage": "https:\/\/kudelskisecurity.com\/kudelski-careers\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Portnox",
+  "companyWebsite": "https:\/\/www.portnox.com\/",
+  "careersPage": "https:\/\/portnox.pinpointhq.com\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Quorum Cyber",
+  "companyWebsite": "https:\/\/www.quorumcyber.com\/",
+  "careersPage": "https:\/\/helpfightbullies.com\/apply\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Lares Consulting",
+  "companyWebsite": "https:\/\/www.lares.com\/",
+  "careersPage": "https:\/\/www.lares.com\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Dark Wolf Solutions",
+  "companyWebsite": "https:\/\/darkwolfsolutions.com\/",
+  "careersPage": "https:\/\/darkwolfsolutions.com\/join-the-pack#positions",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "CISO Global",
+  "companyWebsite": "https:\/\/www.ciso.inc\/",
+  "careersPage": "https:\/\/www.ciso.inc\/company\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Anitian",
+  "companyWebsite": "https:\/\/www.anitian.com\/",
+  "careersPage": "https:\/\/www.anitian.com\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "UpWind Security",
+  "companyWebsite": "https:\/\/www.upwind.io\/",
+  "careersPage": "https:\/\/www.upwind.io\/careers",
   "notes": "",
   "category": "Cybersecurity"
   }                               
