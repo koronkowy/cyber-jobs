@@ -319,7 +319,7 @@
     "companyWebsite":"https:\/\/redcanary.com\/",
     "careersPage":"https:\/\/redcanary.com\/careers\/",
     "notes":"",
-    "category":""
+    "category":"Cybersecurity"
   },
   {
     "companyName":"LogRhythm",
@@ -1998,6 +1998,69 @@
   "companyName": "UpWind Security",
   "companyWebsite": "https:\/\/www.upwind.io\/",
   "careersPage": "https:\/\/www.upwind.io\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Zenity",
+  "companyWebsite": "https:\/\/zenity.io\/",
+  "careersPage": "https:\/\/zenity.io\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Aim Security",
+  "companyWebsite": "https:\/\/www.aim.security\/",
+  "careersPage": "https:\/\/careers.aim.security\/main",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Ghost Security",
+  "companyWebsite": "https:\/\/ghostsecurity.com\/",
+  "careersPage": "https:\/\/ghostsecurity.com\/join-ghost",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Incogni",
+  "companyWebsite": "https:\/\/incogni.com\/",
+  "careersPage": "https:\/\/surfshark.com\/career",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Optery",
+  "companyWebsite": "https:\/\/www.optery.com\/",
+  "careersPage": "https:\/\/jobs.ashbyhq.com\/optery",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Cloaked",
+  "companyWebsite": "https:\/\/www.cloaked.com\/",
+  "careersPage": "https:\/\/jobs.lever.co\/cloaked-app",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Privacy Bee",
+  "companyWebsite": "https:\/\/privacybee.com\/",
+  "careersPage": "https:\/\/business.privacybee.com\/resources\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Array",
+  "companyWebsite": "https:\/\/array.com\/",
+  "careersPage": "https:\/\/array.com\/company\/careers",
+  "notes": "",
+  "category": "Cybersecurity, Tech"
+  },
+  {
+  "companyName": "Aura",
+  "companyWebsite": "https:\/\/www.aura.com\/",
+  "careersPage": "https:\/\/www.aura.com\/job-opening-list",
   "notes": "",
   "category": "Cybersecurity"
   }                               
