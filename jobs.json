@@ -417,7 +417,7 @@
     "companyWebsite":"https:\/\/www.breachlock.com\/",
     "careersPage":"https:\/\/www.breachlock.com\/careers\/",
     "notes":"",
-    "category":""
+    "category":"Cybersecurity"
   },
   {
     "companyName":"Cobalt.io",
@@ -473,7 +473,7 @@
     "companyWebsite":"https:\/\/raxis.com\/",
     "careersPage":"https:\/\/raxis.com\/careers",
     "notes":"",
-    "category":""
+    "category":"Cybersecurity"
   },
   {
     "companyName":"Rhino Security Labs",
@@ -2061,6 +2061,111 @@
   "companyName": "Aura",
   "companyWebsite": "https:\/\/www.aura.com\/",
   "careersPage": "https:\/\/www.aura.com\/job-opening-list",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Core4ce",
+  "companyWebsite": "https:\/\/www.core4ce.com\/",
+  "careersPage": "https:\/\/www.core4ce.com\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity, Tech, Defence"
+  },
+  {
+  "companyName": "Sentra",
+  "companyWebsite": "https:\/\/www.sentra.io\/",
+  "careersPage": "https:\/\/www.sentra.io\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Motion Recruitment",
+  "companyWebsite": "https:\/\/motionrecruitment.com\/",
+  "careersPage": "https:\/\/motionrecruitment.com\/tech-jobs",
+  "notes": "",
+  "category": "recruiting-company"
+  },
+  {
+  "companyName": "Halcyon",
+  "companyWebsite": "https:\/\/www.halcyon.ai\/",
+  "careersPage": "https:\/\/www.halcyon.ai\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Aiden",
+  "companyWebsite": "https:\/\/www.meetaiden.com\/",
+  "careersPage": "https:\/\/www.meetaiden.com\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Orca Security",
+  "companyWebsite": "https:\/\/orca.security\/",
+  "careersPage": "https:\/\/orca.security\/about\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Bureau Veritas Cybersecurity",
+  "companyWebsite": "https:\/\/cybersecurity.bureauveritas.com\/",
+  "careersPage": "https:\/\/cybersecurity.bureauveritas.com\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "XINTRA",
+  "companyWebsite": "https:\/\/www.xintra.org\/",
+  "careersPage": "https:\/\/www.xintra.org\/jobs",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "QuSecure",
+  "companyWebsite": "https:\/\/www.qusecure.com\/",
+  "careersPage": "https:\/\/www.qusecure.com\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "MAVE Security",
+  "companyWebsite": "https:\/\/mave.sh\/",
+  "careersPage": "https:\/\/mave.sh\/company\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Packetlabs",
+  "companyWebsite": "https:\/\/www.packetlabs.net\/",
+  "careersPage": "https:\/\/www.packetlabs.net\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Signal",
+  "companyWebsite": "https:\/\/signal.org\/",
+  "careersPage": "https:\/\/signal.org\/workworkwork\/",
+  "notes": "",
+  "category": "Tech"
+  },
+  {
+  "companyName": "Skyhawk Cybersecurity",
+  "companyWebsite": "https:\/\/skyhawk.security\/",
+  "careersPage": "https:\/\/skyhawk.security\/join-us\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Prescient Cybersecurity",
+  "companyWebsite": "https:\/\/prescientsecurity.com\/",
+  "careersPage": "https:\/\/prescientsecurity.com\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Guardz",
+  "companyWebsite": "https:\/\/guardz.com\/",
+  "careersPage": "https:\/\/guardz.com\/careers\/",
   "notes": "",
   "category": "Cybersecurity"
   }                               
