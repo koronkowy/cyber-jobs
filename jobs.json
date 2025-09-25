@@ -431,7 +431,7 @@
     "companyWebsite":"https:\/\/www.kroll.com\/en",
     "careersPage":"https:\/\/careers.kroll.com\/",
     "notes":"",
-    "category":"Cybersecurity, Tech"
+    "category":"Cybersecurity"
   },
   {
     "companyName":"WithSecure",
@@ -2305,6 +2305,132 @@
   "companyName": "Cayosoft",
   "companyWebsite": "https:\/\/www.cayosoft.com\/",
   "careersPage": "https:\/\/www.cayosoft.com\/about\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "K2 Integrity",
+  "companyWebsite": "https:\/\/www.k2integrity.com\/",
+  "careersPage": "https:\/\/www.k2integrity.com\/en\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Exterro",
+  "companyWebsite": "https:\/\/www.exterro.com\/",
+  "careersPage": "https:\/\/www.exterro.com\/about\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Electric",
+  "companyWebsite": "https:\/\/www.electric.ai\/",
+  "careersPage": "https:\/\/www.electric.ai\/about-electric\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "SAFE",
+  "companyWebsite": "https:\/\/safe.security\/",
+  "careersPage": "https:\/\/jobs.safe.security\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "One Identity",
+  "companyWebsite": "https:\/\/www.oneidentity.com\/",
+  "careersPage": "https:\/\/www.oneidentity.com\/company\/careers.aspx",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "HUMAN",
+  "companyWebsite": "https:\/\/www.humansecurity.com\/",
+  "careersPage": "https:\/\/www.humansecurity.com\/company\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Kentik",
+  "companyWebsite": "https:\/\/www.kentik.com\/",
+  "careersPage": "https:\/\/www.kentik.com\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "OpenText",
+  "companyWebsite": "https:\/\/www.opentext.com\/",
+  "careersPage": "https:\/\/careers.opentext.com\/us\/en",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Second Front Systems",
+  "companyWebsite": "https:\/\/www.secondfront.com\/",
+  "careersPage": "https:\/\/www.secondfront.com\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Cymulate",
+  "companyWebsite": "https:\/\/cymulate.com\/",
+  "careersPage": "https:\/\/cymulate.com\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Strata Information Group",
+  "companyWebsite": "https:\/\/www.sigcorp.com\/",
+  "careersPage": "https:\/\/www.sigcorp.com\/about\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity, Tech"
+  },
+  {
+  "companyName": "Leviathan Security Group",
+  "companyWebsite": "https:\/\/www.leviathansecurity.com\/",
+  "careersPage": "https:\/\/www.leviathansecurity.com\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Terra Security",
+  "companyWebsite": "https:\/\/www.terra.security\/",
+  "careersPage": "https:\/\/www.terra.security\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "XBOW",
+  "companyWebsite": "https:\/\/xbow.com\/",
+  "careersPage": "https:\/\/jobs.ashbyhq.com\/xbowcareers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Casco",
+  "companyWebsite": "https:\/\/casco.com\/",
+  "careersPage": "https:\/\/casco.com\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Foresite Cybersecurity",
+  "companyWebsite": "https:\/\/foresite.com\/",
+  "careersPage": "https:\/\/careers.foresite.com\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "LogicGate",
+  "companyWebsite": "https:\/\/www.logicgate.com\/",
+  "careersPage": "https:\/\/www.logicgate.com\/company\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Turngate",
+  "companyWebsite": "https:\/\/www.turngate.io\/",
+  "careersPage": "https:\/\/www.turngate.io\/careers",
   "notes": "",
   "category": "Cybersecurity"
   }                               
