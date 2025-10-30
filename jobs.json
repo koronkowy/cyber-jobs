@@ -1115,7 +1115,7 @@
   {
     "companyName":"Locke44",
     "companyWebsite":"https:\/\/www.locke44.com\/",
-    "careersPage":"https:\/\/www.locke44.com\/jobs",
+    "careersPage":"https:\/\/www.locke44.com\/careers",
     "notes":"",
     "category":"recruiting-company"
   },
@@ -1339,7 +1339,8 @@
   {
     "companyName": "plainID",
     "companyWebsite": "https:\/\/www.plainid.com\/",
-    "careersPage": "https:\/\/www.plainid.com\/careers\/",
+    "careersPage": "https:\/\/www.plainid.com\/work-with-us\/
+    ",
     "notes": "",
     "category": "Cybersecurity"
   },
@@ -2438,6 +2439,111 @@
   "companyName": "Adaptiva",
   "companyWebsite": "https:\/\/adaptiva.com\/",
   "careersPage": "https:\/\/adaptiva.com\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Abricto Security",
+  "companyWebsite": "https:\/\/abrictosecurity.com\/",
+  "careersPage": "https:\/\/abrictosecurity.com\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "EC-Council",
+  "companyWebsite": "https:\/\/ethicalhacking.eccouncil.org\/",
+  "careersPage": "https:\/\/www.eccouncil.org\/become-an-ec-council-subject-matter-expert\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Corridor",
+  "companyWebsite": "https:\/\/corridor.dev\/",
+  "careersPage": "https:\/\/corridor.dev\/jobs\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "WorkOS",
+  "companyWebsite": "https:\/\/workos.com\/",
+  "careersPage": "https:\/\/workos.com\/careers",
+  "notes": "",
+  "category": "Cybersecurity, Tech"
+  },
+  {
+  "companyName": "Protiviti",
+  "companyWebsite": "https:\/\/www.protiviti.com\/",
+  "careersPage": "https:\/\/www.protiviti.com\/us-en\/careers",
+  "notes": "",
+  "category": "Cybersecurity, Tech"
+  },
+  {
+  "companyName": "Frontegg",
+  "companyWebsite": "https:\/\/frontegg.com\/",
+  "careersPage": "https:\/\/frontegg.com\/careers",
+  "notes": "",
+  "category": "Cybersecurity, Tech"
+  },
+  {
+  "companyName": "Auth0",
+  "companyWebsite": "https:\/\/auth0.com\/",
+  "careersPage": "https:\/\/www.okta.com\/company\/careers\/job-listing\/",
+  "notes": "",
+  "category": "Cybersecurity, Tech"
+  },
+  {
+  "companyName": "Mitratech",
+  "companyWebsite": "https:\/\/mitratech.com\/",
+  "careersPage": "https:\/\/mitratech.com\/about-us\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Axonius",
+  "companyWebsite": "https:\/\/www.axonius.com\/",
+  "careersPage": "https:\/\/www.axonius.com\/company\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "CyberRisk Alliance",
+  "companyWebsite": "https:\/\/www.cyberriskalliance.com\/",
+  "careersPage": "https:\/\/www.cyberriskalliance.com\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Pretera",
+  "companyWebsite": "https:\/\/www.pretera.com\/",
+  "careersPage": "https:\/\/www.pretera.com\/#careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "iboss",
+  "companyWebsite": "https:\/\/www.iboss.com\/",
+  "careersPage": "https:\/\/www.iboss.com\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Immuta",
+  "companyWebsite": "https:\/\/www.immuta.com\/",
+  "careersPage": "https:\/\/www.immuta.com\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "NightDragon",
+  "companyWebsite": "https:\/\/www.nightdragon.com\/",
+  "careersPage": "https:\/\/careers.nightdragon.com\/jobs",
+  "notes": "",
+  "category": "Cybersecurity, Tech, Defence"
+  },
+  {
+  "companyName": "A-LIGN",
+  "companyWebsite": "https:\/\/www.a-lign.com\/",
+  "careersPage": "https:\/\/www.a-lign.com\/careers",
   "notes": "",
   "category": "Cybersecurity"
   }                               
