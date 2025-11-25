@@ -305,7 +305,7 @@
     "companyWebsite":"https:\/\/www.solarwinds.com\/",
     "careersPage":"https:\/\/jobs.solarwinds.com\/",
     "notes":"",
-    "category":""
+    "category":"Cybersecurity, Tech"
   },
   {
     "companyName":"Tripwire",
@@ -320,13 +320,6 @@
     "careersPage":"https:\/\/redcanary.com\/careers\/",
     "notes":"",
     "category":"Cybersecurity"
-  },
-  {
-    "companyName":"LogRhythm",
-    "companyWebsite":"https:\/\/logrhythm.com\/",
-    "careersPage":"https:\/\/logrhythm.com\/company\/careers\/",
-    "notes":"",
-    "category":""
   },
   {
     "companyName":"Coalfire",
@@ -410,7 +403,7 @@
     "companyWebsite":"https:\/\/www.attackiq.com\/",
     "careersPage":"https:\/\/www.attackiq.com\/careers\/",
     "notes":"",
-    "category":""
+    "category":"Cybersecurity"
   },
   {
     "companyName":"BreachLock",
@@ -424,21 +417,21 @@
     "companyWebsite":"https:\/\/cobalt.io\/",
     "careersPage":"https:\/\/cobalt.io\/careers",
     "notes":"",
-    "category":""
+    "category":"Cybersecurity"
   },
   {
     "companyName":"Kroll",
     "companyWebsite":"https:\/\/www.kroll.com\/en",
     "careersPage":"https:\/\/careers.kroll.com\/",
     "notes":"",
-    "category":"Cybersecurity"
+    "category":"Cybersecurity, Defence"
   },
   {
     "companyName":"WithSecure",
     "companyWebsite":"https:\/\/www.withsecure.com\/",
     "careersPage":"https:\/\/www.withsecure.com\/en\/about-us\/careers-at-withsecure",
     "notes":"",
-    "category":""
+    "category":"Cybersecurity"
   },
   {
     "companyName":"IOActive",
@@ -459,7 +452,7 @@
     "companyWebsite":"https:\/\/outpost24.com\/",
     "careersPage":"https:\/\/careers.outpost24.com\/",
     "notes":"",
-    "category":""
+    "category":"Cybersecurity"
   },
   {
     "companyName":"HackerOne",
@@ -480,7 +473,7 @@
     "companyWebsite":"https:\/\/rhinosecuritylabs.com\/",
     "careersPage":"https:\/\/rhinosecuritylabs.com\/about\/careers\/",
     "notes":"",
-    "category":""
+    "category":"Cybersecurity"
   },
   {
     "companyName":"Praetorian",
@@ -494,14 +487,14 @@
     "companyWebsite":"https:\/\/www.truesec.com\/",
     "careersPage":"https:\/\/career.truesec.com\/",
     "notes":"",
-    "category":""
+    "category":"Cybersecurity"
   },
   {
     "companyName":"Intruder",
     "companyWebsite":"https:\/\/www.intruder.io\/",
     "careersPage":"https:\/\/careers.intruder.io\/",
     "notes":"",
-    "category":""
+    "category":"Cybersecurity"
   },
   {
     "companyName":"TrapWire",
