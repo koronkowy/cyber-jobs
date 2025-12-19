@@ -1078,13 +1078,6 @@
     "category":"Cybersecurity, Defence, Tech"
   },
   {
-    "companyName":"Cybereason",
-    "companyWebsite":"https:\/\/www.cybereason.com\/",
-    "careersPage":"https:\/\/www.cybereason.com\/company\/careers",
-    "notes":"",
-    "category":"Cybersecurity"
-  },
-  {
     "companyName":"TrendMicro",
     "companyWebsite":"https:\/\/www.trendmicro.com\/",
     "careersPage":"https:\/\/trendmicro.wd3.myworkdayjobs.com\/External",
@@ -3397,6 +3390,83 @@
   "companyName": "Dragos",
   "companyWebsite": "https:\/\/www.dragos.com\/",
   "careersPage": "https:\/\/www.dragos.com\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "The Judge Group",
+  "companyWebsite": "https:\/\/www.judge.com\/",
+  "careersPage": "https:\/\/www.judge.com\/jobs\/",
+  "notes": "",
+  "category": "recruiting-company, Cybersecurity, Tech"
+  },
+  {
+  "companyName": "TEKsystems",
+  "companyWebsite": "https:\/\/www.teksystems.com\/en\/",
+  "careersPage": "https:\/\/careers.teksystems.com\/us\/en",
+  "notes": "",
+  "category": "recruiting-company, Cybersecurity, Tech"
+  },
+  {
+  "companyName": "Randstad",
+  "companyWebsite": "https:\/\/www.randstadusa.com\/",
+  "careersPage": "https:\/\/www.randstadusa.com\/jobs\/",
+  "notes": "",
+  "category": "recruiting-company, Cybersecurity, Tech"
+  },
+  {
+  "companyName": "Robert Half",
+  "companyWebsite": "https:\/\/www.roberthalf.com\/us\/en",
+  "careersPage": "https:\/\/www.roberthalf.com\/us\/en\/find-jobs",
+  "notes": "",
+  "category": "recruiting-company, Cybersecurity, Tech"
+  },
+  {
+  "companyName": "Invadel",
+  "companyWebsite": "https:\/\/invadel.com\/",
+  "careersPage": "https:\/\/invadel.com\/jobs\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Conifers",
+  "companyWebsite": "https:\/\/www.conifers.ai\/",
+  "careersPage": "https:\/\/www.conifers.ai\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "RSM",
+  "companyWebsite": "https:\/\/rsmus.com\/",
+  "careersPage": "https:\/\/jobs.rsmus.com\/?country=United+States&page=1",
+  "notes": "",
+  "category": "Cybersecurity, Tech"
+  },
+  {
+  "companyName": "Relyance AI",
+  "companyWebsite": "https:\/\/www.relyance.ai\/",
+  "careersPage": "https:\/\/www.relyance.ai\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "XM Cyber",
+  "companyWebsite": "https:\/\/xmcyber.com\/",
+  "careersPage": "https:\/\/xmcyber.com\/job-listing\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Level Blue",
+  "companyWebsite": "https:\/\/levelblue.com\/",
+  "careersPage": "https:\/\/levelblue.com\/company\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Astra Security",
+  "companyWebsite": "https:\/\/www.getastra.com\/",
+  "careersPage": "https:\/\/www.getastra.com\/team-and-culture",
   "notes": "",
   "category": "Cybersecurity"
   }                                
