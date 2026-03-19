@@ -1,12 +1,5 @@
 [
   {
-    "companyName":"ADF Solutions",
-    "companyWebsite":"https:\/\/www.adfsolutions.com\/",
-    "careersPage":"https:\/\/www.adfsolutions.com\/careers",
-    "notes":"",
-    "category":"Cybersecurity"
-  },
-  {
     "companyName":"Ntrepid",
     "companyWebsite":"https:\/\/ntrepidcorp.com\/",
     "careersPage":"https:\/\/careers-ntrepidcorp.icims.com\/",
@@ -31,13 +24,6 @@
     "companyName":"Barracuda Networks",
     "companyWebsite":"https:\/\/www.barracuda.com\/",
     "careersPage":"https:\/\/www.barracuda.com\/company\/careers",
-    "notes":"",
-    "category":"Cybersecurity"
-  },
-  {
-    "companyName":"Trustwave",
-    "companyWebsite":"https:\/\/www.trustwave.com\/en-us\/",
-    "careersPage":"https:\/\/www.trustwave.com\/en-us\/company\/careers\/",
     "notes":"",
     "category":"Cybersecurity"
   },
@@ -161,11 +147,11 @@
     "category":"Cybersecurity, Tech"
   },
   {
-    "companyName":"Darktrace",
-    "companyWebsite":"https:\/\/www.darktrace.com\/",
-    "careersPage":"https:\/\/www.darktrace.com\/en\/careers\/",
-    "notes":"",
-    "category":"Cybersecurity"
+  "companyName": "Darktrace",
+  "companyWebsite": "https:\/\/www.darktrace.com\/",
+  "careersPage": "https:\/\/www.darktrace.com\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
   },
   {
     "companyName":"Forcepoint",
@@ -1827,13 +1813,6 @@
   "category": "Cybersecurity"
   },
   {
-  "companyName": "Protect AI",
-  "companyWebsite": "https:\/\/protectai.com\/",
-  "careersPage": "https:\/\/protectai.com\/careers",
-  "notes": "",
-  "category": "Cybersecurity"
-  },
-  {
   "companyName": "TCM Security",
   "companyWebsite": "https:\/\/tcm-sec.com\/",
   "careersPage": "https:\/\/jobs.gusto.com\/boards\/tcm-security-fdd86428-8a24-4ea2-9616-7c5ced48de44",
@@ -1995,13 +1974,6 @@
   "category": "Cybersecurity"
   },
   {
-  "companyName": "Aim Security",
-  "companyWebsite": "https:\/\/www.aim.security\/",
-  "careersPage": "https:\/\/careers.aim.security\/main",
-  "notes": "",
-  "category": "Cybersecurity"
-  },
-  {
   "companyName": "Ghost Security",
   "companyWebsite": "https:\/\/ghostsecurity.com\/",
   "careersPage": "https:\/\/ghostsecurity.com\/join-ghost",
@@ -2079,13 +2051,6 @@
   "category": "Cybersecurity"
   },
   {
-  "companyName": "Aiden",
-  "companyWebsite": "https:\/\/www.meetaiden.com\/",
-  "careersPage": "https:\/\/www.meetaiden.com\/careers\/",
-  "notes": "",
-  "category": "Cybersecurity"
-  },
-  {
   "companyName": "Orca Security",
   "companyWebsite": "https:\/\/orca.security\/",
   "careersPage": "https:\/\/orca.security\/about\/careers\/",
@@ -2110,13 +2075,6 @@
   "companyName": "QuSecure",
   "companyWebsite": "https:\/\/www.qusecure.com\/",
   "careersPage": "https:\/\/www.qusecure.com\/careers\/",
-  "notes": "",
-  "category": "Cybersecurity"
-  },
-  {
-  "companyName": "MAVE Security",
-  "companyWebsite": "https:\/\/mave.sh\/",
-  "careersPage": "https:\/\/mave.sh\/company\/",
   "notes": "",
   "category": "Cybersecurity"
   },
@@ -2272,13 +2230,6 @@
   "careersPage": "https:\/\/careers.watchtowr.com\/",
   "notes": "",
   "category": "Cybersecurity, Tech"
-  },
-  {
-  "companyName": "Kondukto",
-  "companyWebsite": "https:\/\/kondukto.io\/",
-  "careersPage": "https:\/\/kondukto.io\/careers",
-  "notes": "",
-  "category": "Cybersecurity"
   },
   {
   "companyName": "CardinalOps",
@@ -2466,13 +2417,6 @@
   "companyName": "Frontegg",
   "companyWebsite": "https:\/\/frontegg.com\/",
   "careersPage": "https:\/\/frontegg.com\/careers",
-  "notes": "",
-  "category": "Cybersecurity, Tech"
-  },
-  {
-  "companyName": "Auth0",
-  "companyWebsite": "https:\/\/auth0.com\/",
-  "careersPage": "https:\/\/www.okta.com\/company\/careers\/job-listing\/",
   "notes": "",
   "category": "Cybersecurity, Tech"
   },
@@ -2911,7 +2855,7 @@
   "category": "Cybersecurity"
   },
   {
-  "companyName": "LogMeIn",
+  "companyName": "GoTo Technologies",
   "companyWebsite": "https:\/\/www.logmein.com\/",
   "careersPage": "https:\/\/www.goto.com\/company\/careers?utm_source=logmein.com&utm_medium=referral&utm_campaign=footer",
   "notes": "",
@@ -3009,7 +2953,7 @@
   "category": "Cybersecurity"
   },
   {
-  "companyName": "CEHQ",
+  "companyName": "Cheq",
   "companyWebsite": "https:\/\/cheq.ai",
   "careersPage": "https:\/\/cheq.ai\/careers\/",
   "notes": "",
@@ -3110,13 +3054,6 @@
   "companyName": "GitGuardian",
   "companyWebsite": "https:\/\/www.gitguardian.com\/",
   "careersPage": "https:\/\/www.gitguardian.com\/careers",
-  "notes": "",
-  "category": "Cybersecurity"
-  },
-  {
-  "companyName": "Norton",
-  "companyWebsite": "https:\/\/us.norton.com\/",
-  "careersPage": "https:\/\/www.nortonlifelock.com\/aa\/en\/careers\/",
   "notes": "",
   "category": "Cybersecurity"
   },
@@ -3352,7 +3289,7 @@
   "category": "Tech, Cybersecurity"
   },
   {
-  "companyName": "Wirex Systems",
+  "companyName": "WireX Systems",
   "companyWebsite": "https:\/\/wirexsystems.com\/",
   "careersPage": "https:\/\/wirexsystems.com\/careers\/",
   "notes": "",
@@ -3422,25 +3359,11 @@
   "category": "recruiting-company, Cybersecurity, Tech"
   },
   {
-  "companyName": "Invadel",
-  "companyWebsite": "https:\/\/invadel.com\/",
-  "careersPage": "https:\/\/invadel.com\/jobs\/",
-  "notes": "",
-  "category": "Cybersecurity"
-  },
-  {
   "companyName": "Conifers",
   "companyWebsite": "https:\/\/www.conifers.ai\/",
   "careersPage": "https:\/\/www.conifers.ai\/careers",
   "notes": "",
   "category": "Cybersecurity"
-  },
-  {
-  "companyName": "RSM",
-  "companyWebsite": "https:\/\/rsmus.com\/",
-  "careersPage": "https:\/\/jobs.rsmus.com\/?country=United+States&page=1",
-  "notes": "",
-  "category": "Cybersecurity, Tech"
   },
   {
   "companyName": "Relyance AI",
@@ -3457,7 +3380,7 @@
   "category": "Cybersecurity"
   },
   {
-  "companyName": "Level Blue",
+  "companyName": "LevelBlue",
   "companyWebsite": "https:\/\/levelblue.com\/",
   "careersPage": "https:\/\/levelblue.com\/company\/careers\/",
   "notes": "",
@@ -3476,5 +3399,68 @@
   "careersPage": "https:\/\/www.domaintools.com\/company\/careers",
   "notes": "",
   "category": "Cybersecurity"
-  }                                
+  },
+  {
+  "companyName": "ninjaOne",
+  "companyWebsite": "https:\/\/www.ninjaone.com\/",
+  "careersPage": "https:\/\/www.ninjaone.com\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity, Tech"
+  },
+  {
+  "companyName": "CTM360",
+  "companyWebsite": "https:\/\/www.ctm360.com\/",
+  "careersPage": "https:\/\/careers.smartrecruiters.com\/CTM360",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Pentest Tools",
+  "companyWebsite": "https:\/\/pentest-tools.com\/",
+  "careersPage": "https:\/\/pentest-tools.com\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "IPinfo",
+  "companyWebsite": "https:\/\/ipinfo.io\/",
+  "careersPage": "https:\/\/ipinfo.io\/jobs",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "cPacket",
+  "companyWebsite": "https:\/\/www.cpacket.com\/",
+  "careersPage": "https:\/\/www.cpacket.com\/company#Careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Zero Networks",
+  "companyWebsite": "https:\/\/zeronetworks.com\/",
+  "careersPage": "https:\/\/zeronetworks.com\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "DTEX",
+  "companyWebsite": "https:\/\/www.dtex.ai\/",
+  "careersPage": "https:\/\/www.dtex.ai\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Wallix",
+  "companyWebsite": "https:\/\/www.wallix.com\/",
+  "careersPage": "https:\/\/www.wallix.com\/company\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Invicti",
+  "companyWebsite": "https:\/\/www.invicti.com\/",
+  "careersPage": "https:\/\/www.invicti.com\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  }                             
 ]
