@@ -3483,5 +3483,26 @@
   "careersPage": "https:\/\/native.security\/careers",
   "notes": "",
   "category": "Cybersecurity"
+  },
+  {
+  "companyName": "BigID",
+  "companyWebsite": "https:\/\/bigid.com\/",
+  "careersPage": "https:\/\/bigid.com\/company\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity, Tech"
+  },
+  {
+  "companyName": "EchoMark",
+  "companyWebsite": "https:\/\/www.echomark.com\/",
+  "careersPage": "https:\/\/www.echomark.com\/jobs",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Hiya",
+  "companyWebsite": "https:\/\/www.hiya.com\/",
+  "careersPage": "https:\/\/www.hiya.com\/company\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
   }                             
 ]
