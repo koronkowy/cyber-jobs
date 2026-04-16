@@ -3469,5 +3469,19 @@
   "careersPage": "https:\/\/intezer.com\/careers\/",
   "notes": "",
   "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Dropzone AI",
+  "companyWebsite": "https:\/\/www.dropzone.ai\/",
+  "careersPage": "https:\/\/ats.rippling.com\/dropzone-ai\/jobs",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Native",
+  "companyWebsite": "https:\/\/native.security\/",
+  "careersPage": "https:\/\/native.security\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
   }                             
 ]
