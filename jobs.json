@@ -3581,5 +3581,26 @@
   "careersPage": "https:\/\/www.oasis.security\/careers",
   "notes": "",
   "category": "Cybersecurity"
+  },
+  {
+  "companyName": "WMC Global",
+  "companyWebsite": "https:\/\/www.wmcglobal.com\/",
+  "careersPage": "https:\/\/www.wmcglobal.com\/careers-wmc-global",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "ISC2",
+  "companyWebsite": "https:\/\/www.isc2.org\/",
+  "careersPage": "https:\/\/www.isc2.org\/job-opportunities",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Sonatype",
+  "companyWebsite": "http:\/\/sonatype.com\/",
+  "careersPage": "https:\/\/www.sonatype.com\/company\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
   }                             
 ]
