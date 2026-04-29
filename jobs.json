@@ -3602,5 +3602,26 @@
   "careersPage": "https:\/\/www.sonatype.com\/company\/careers",
   "notes": "",
   "category": "Cybersecurity"
+  },
+  {
+  "companyName": "JFrog",
+  "companyWebsite": "https:\/\/jfrog.com\/",
+  "careersPage": "https:\/\/join.jfrog.com\/",
+  "notes": "",
+  "category": "Cybersecurity, Tech"
+  },
+  {
+  "companyName": "Socket",
+  "companyWebsite": "https:\/\/socket.dev\/",
+  "careersPage": "https:\/\/socket.dev\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Kusari",
+  "companyWebsite": "https:\/\/www.kusari.dev\/",
+  "careersPage": "https:\/\/www.kusari.dev\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
   }                             
 ]
