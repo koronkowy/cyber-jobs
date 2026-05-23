@@ -77,13 +77,6 @@
     "category":"Cybersecurity"
   },
   {
-    "companyName":"CyberArk",
-    "companyWebsite":"https:\/\/www.cyberark.com\/",
-    "careersPage":"https:\/\/www.cyberark.com\/careers\/",
-    "notes":"",
-    "category":"Cybersecurity"
-  },
-  {
     "companyName":"Check Point Software",
     "companyWebsite":"https:\/\/www.checkpoint.com\/",
     "careersPage":"https:\/\/www.checkpoint.com\/careers\/",
@@ -101,20 +94,6 @@
     "companyName":"McAfee",
     "companyWebsite":"https:\/\/www.mcafee.com\/",
     "careersPage":"https:\/\/careers.mcafee.com\/",
-    "notes":"",
-    "category":"Cybersecurity"
-  },
-  {
-    "companyName":"Symantec",
-    "companyWebsite":"https:\/\/www.broadcom.com\/company\/symantec",
-    "careersPage":"https:\/\/www.broadcom.com\/careers",
-    "notes":"",
-    "category":"Cybersecurity"
-  },
-  {
-    "companyName":"Secureworks",
-    "companyWebsite":"https:\/\/www.secureworks.com\/",
-    "careersPage":"https:\/\/www.secureworks.com\/careers",
     "notes":"",
     "category":"Cybersecurity"
   },
@@ -168,13 +147,6 @@
     "category":"Cybersecurity"
   },
   {
-    "companyName":"Imperva",
-    "companyWebsite":"https:\/\/www.imperva.com\/",
-    "careersPage":"https:\/\/www.imperva.com\/careers\/",
-    "notes":"",
-    "category":"Cybersecurity"
-  },
-  {
     "companyName":"Proofpoint",
     "companyWebsite":"https:\/\/www.proofpoint.com\/",
     "careersPage":"https:\/\/www.proofpoint.com\/us\/careers",
@@ -208,13 +180,6 @@
     "careersPage":"https:\/\/www.acronis.com\/en-us\/careers\/",
     "notes":"",
     "category":"Cybersecurity"
-  },
-  {
-    "companyName":"Cylance",
-    "companyWebsite":"https:\/\/www.cylance.com\/",
-    "careersPage":"https:\/\/www.blackberry.com\/us\/en\/company\/careers",
-    "notes":"",
-    "category":"Cybersecurity, Tech"
   },
   {
     "companyName":"Ivanti",
@@ -784,13 +749,6 @@
     "category":"Defence"
   },
   {
-    "companyName":"Cybersixgill",
-    "companyWebsite":"https:\/\/cybersixgill.com\/",
-    "careersPage":"https:\/\/cybersixgill.com\/careers",
-    "notes":"",
-    "category":"Cybersecurity"
-  },
-  {
     "companyName":"Mark43",
     "companyWebsite":"https:\/\/mark43.com\/",
     "careersPage":"https:\/\/mark43.com\/company\/careers\/",
@@ -976,13 +934,6 @@
     "companyName":"Synopsys",
     "companyWebsite":"https:\/\/www.synopsys.com\/",
     "careersPage":"https:\/\/careers.synopsys.com\/",
-    "notes":"",
-    "category":"Cybersecurity"
-  },
-  {
-    "companyName":"Splunk",
-    "companyWebsite":"https:\/\/www.splunk.com\/",
-    "careersPage":"https:\/\/www.splunk.com\/en_us\/careers\/search-jobs.html",
     "notes":"",
     "category":"Cybersecurity, Tech"
   },
@@ -3621,6 +3572,13 @@
   "companyName": "Kusari",
   "companyWebsite": "https:\/\/www.kusari.dev\/",
   "careersPage": "https:\/\/www.kusari.dev\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Bitsight",
+  "companyWebsite": "https:\/\/www.bitsight.com\/",
+  "careersPage": "https:\/\/www.bitsight.com\/about\/careers",
   "notes": "",
   "category": "Cybersecurity"
   }                             
