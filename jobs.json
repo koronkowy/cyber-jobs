@@ -441,20 +441,6 @@
     "category":"Cybersecurity"
   },
   {
-    "companyName":"GFI Software",
-    "companyWebsite":"https:\/\/gfi.ai\/",
-    "careersPage":"https:\/\/www.gfi.nl\/company\/careers",
-    "notes":"",
-    "category":"Tech, Cybersecurity"
-  },
-  {
-    "companyName":"JAL Infotech",
-    "companyWebsite":"https:\/\/www.jalinfotec.co.jp\/",
-    "careersPage":"https:\/\/www.jalinfotec.co.jp\/recruit\/faq\/",
-    "notes":"Requires JP fluency",
-    "category":"Tech, Cybersecurity"
-  },
-  {
     "companyName":"Uniadex",
     "companyWebsite":"https:\/\/www.uniadex.co.jp\/",
     "careersPage":"https:\/\/www.uniadex.co.jp\/recruit\/",
@@ -465,13 +451,6 @@
     "companyName":"Transmit Security",
     "companyWebsite":"https:\/\/transmitsecurity.com\/",
     "careersPage":"https:\/\/transmitsecurity.com\/about\/careers",
-    "notes":"",
-    "category":"Cybersecurity"
-  },
-  {
-    "companyName":"YesWeHack",
-    "companyWebsite":"https:\/\/www.yeswehack.com\/",
-    "careersPage":"https:\/\/www.welcometothejungle.com\/fr\/companies\/yeswehack",
     "notes":"",
     "category":"Cybersecurity"
   },
@@ -2677,7 +2656,7 @@
   "companyWebsite": "https:\/\/www.anduril.com\/",
   "careersPage": "https:\/\/www.anduril.com\/careers\/",
   "notes": "",
-  "category": "Defence"
+  "category": "Defence, Cybersecurity"
   },
   {
   "companyName": "Allegis Cyber Capital",
