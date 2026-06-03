@@ -837,7 +837,7 @@
     "companyWebsite":"https:\/\/www.gendigital.com\/us\/en\/",
     "careersPage":"https:\/\/gen.wd1.myworkdayjobs.com\/en-US\/careers",
     "notes":"",
-    "category":"Cybersecurity"
+    "category":"Cybersecurity, Tech"
   },
   {
     "companyName":"General Dynamics Missions Systems",
@@ -1897,11 +1897,11 @@
   "category": "Cybersecurity"
   },
   {
-  "companyName": "Incogni",
-  "companyWebsite": "https:\/\/incogni.com\/",
+  "companyName": "Surfshark",
+  "companyWebsite": "https:\/\/surfshark.com\/",
   "careersPage": "https:\/\/surfshark.com\/career",
   "notes": "",
-  "category": "Cybersecurity"
+  "category": "Cybersecurity, Tech"
   },
   {
   "companyName": "Optery",
@@ -3544,6 +3544,55 @@
   "companyName": "Bitsight",
   "companyWebsite": "https:\/\/www.bitsight.com\/",
   "careersPage": "https:\/\/www.bitsight.com\/about\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "DeleteMe",
+  "companyWebsite": "https:\/\/joindeleteme.com\/",
+  "careersPage": "https:\/\/joindeleteme.com\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity, Tech"
+  },
+  {
+  "companyName": "Kanary",
+  "companyWebsite": "https:\/\/www.kanary.com\/",
+  "careersPage": "https:\/\/www.kanary.com\/join-the-team",
+  "notes": "",
+  "category": "Cybersecurity, Tech"
+  },
+  {
+  "companyName": "Armadin",
+  "companyWebsite": "https:\/\/www.armadin.com\/",
+  "careersPage": "https:\/\/www.armadin.com\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Battelle",
+  "companyWebsite": "https:\/\/www.battelle.org\/",
+  "careersPage": "https:\/\/www.battelle.org\/careers",
+  "notes": "",
+  "category": "Cybersecurity, Defence"
+  },
+  {
+  "companyName": "Malwarebytes",
+  "companyWebsite": "https:\/\/www.malwarebytes.com\/",
+  "careersPage": "https:\/\/www.malwarebytes.com\/jobs",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Hello Privacy",
+  "companyWebsite": "https:\/\/helloprivacy.com\/",
+  "careersPage": "https:\/\/brandyourself.com\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity, Tech"
+  },
+  {
+  "companyName": "runZero",
+  "companyWebsite": "https:\/\/www.runzero.com\/",
+  "careersPage": "https:\/\/www.runzero.com\/about\/careers\/",
   "notes": "",
   "category": "Cybersecurity"
   }                             
