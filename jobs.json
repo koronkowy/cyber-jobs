@@ -3595,5 +3595,26 @@
   "careersPage": "https:\/\/www.runzero.com\/about\/careers\/",
   "notes": "",
   "category": "Cybersecurity"
+  },
+  {
+  "companyName": "SpyCloud",
+  "companyWebsite": "https:\/\/spycloud.com\/",
+  "careersPage": "https:\/\/spycloud.com\/company\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Google",
+  "companyWebsite": "https://google.com/",
+  "careersPage": "https://www.google.com/about/careers/",
+  "notes": "",
+  "category": "Cybersecurity, Tech"
+  },
+  {
+  "companyName": "Harmonic Security",
+  "companyWebsite": "https:\/\/www.harmonic.security\/",
+  "careersPage": "https:\/\/www.harmonic.security\/company\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
   }                             
 ]
