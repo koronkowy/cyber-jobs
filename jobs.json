@@ -3686,5 +3686,26 @@
   "careersPage": "https://offensys.nl/careers",
   "notes": "",
   "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Concentric",
+  "companyWebsite": "https://www.concentric.io/",
+  "careersPage": "https://www.concentric.io/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "TENEX",
+  "companyWebsite": "https://tenex.ai/",
+  "careersPage": "https://tenex.ai/careers/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Realm Security",
+  "companyWebsite": "https://realm.security/",
+  "careersPage": "https://realm.security/jobs/",
+  "notes": "",
+  "category": "Cybersecurity"
   }                             
 ]
