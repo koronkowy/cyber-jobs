@@ -3714,5 +3714,40 @@
   "careersPage": "https://crushsecurity.com/careers",
   "notes": "",
   "category": "Cybersecurity, Tech"
+  },
+  {
+  "companyName": "Applied Network Defense",
+  "companyWebsite": "https://www.networkdefense.co/",
+  "careersPage": "https://www.networkdefense.co/careers/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Gray Swan",
+  "companyWebsite": "https:\/\/www.grayswan.ai\/",
+  "careersPage": "https:\/\/www.grayswan.ai\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Geordie",
+  "companyWebsite": "https:\/\/www.geordie.ai\/",
+  "careersPage": "https:\/\/jobs.ashbyhq.com\/geordieai",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Arpio",
+  "companyWebsite": "https:\/\/arpio.io\/",
+  "careersPage": "https:\/\/arpio.io\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Sardine",
+  "companyWebsite": "https:\/\/www.sardine.ai\/",
+  "careersPage": "https:\/\/www.sardine.ai\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
   }                             
 ]
