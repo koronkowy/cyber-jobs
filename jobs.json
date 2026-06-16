@@ -3749,5 +3749,110 @@
   "careersPage": "https:\/\/www.sardine.ai\/careers",
   "notes": "",
   "category": "Cybersecurity"
-  }                             
+  },
+  {
+  "companyName": "Picus Security",
+  "companyWebsite": "https:\/\/www.picussecurity.com\/",
+  "careersPage": "https:\/\/www.picussecurity.com\/careers-at-picus",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "MITRE",
+  "companyWebsite": "https:\/\/www.mitre.org\/",
+  "careersPage": "https:\/\/www.mitre.org\/careers",
+  "notes": "",
+  "category": "Cybersecurity, Tech, Defence, Nonprofit"
+  },
+  {
+  "companyName": "Horizon3.ai",
+  "companyWebsite": "https:\/\/horizon3.ai\/",
+  "careersPage": "https:\/\/horizon3.ai\/join-our-team\/",
+  "notes": "",
+  "category": "Cybersecurity, Tech"
+  },
+  {
+  "companyName": "IBM",
+  "companyWebsite": "https://www.ibm.com/",
+  "careersPage": "https://www.ibm.com/careers",
+  "notes": "",
+  "category": "Tech, Cybersecurity"
+  },
+  {
+  "companyName": "RedSeal",
+  "companyWebsite": "https:\/\/www.redseal.net\/",
+  "careersPage": "https:\/\/www.redseal.net\/company\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "SCYTHE",
+  "companyWebsite": "https:\/\/scythe.io\/",
+  "careersPage": "https://scythe.io/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Tufin",
+  "companyWebsite": "https:\/\/www.tufin.com\/",
+  "careersPage": "https:\/\/www.tufin.com\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Ridge Security",
+  "companyWebsite": "https:\/\/ridgesecurity.ai\/",
+  "careersPage": "https:\/\/ridgesecurity.ai\/jobs\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "AT&T",
+  "companyWebsite": "https:\/\/www.att.com\/",
+  "careersPage": "https:\/\/www.att.jobs\/",
+  "notes": "",
+  "category": "Tech, Cybersecurity"
+  },
+  {
+  "companyName": "OnDefend",
+  "companyWebsite": "https:\/\/ondefend.com\/",
+  "careersPage": "https:\/\/ondefend.com\/join-the-team\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "CyberNX",
+  "companyWebsite": "https:\/\/www.cybernx.com\/",
+  "careersPage": "https:\/\/www.cybernx.com\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Akamai",
+  "companyWebsite": "https:\/\/www.akamai.com\/",
+  "careersPage": "https:\/\/www.akamai.com\/careers",
+  "notes": "",
+  "category": "Cybersecurity, Tech"
+  },
+  {
+  "companyName": "Defendify",
+  "companyWebsite": "https:\/\/www.defendify.com\/",
+  "careersPage": "https:\/\/www.defendify.com\/company\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Adaptive",
+  "companyWebsite": "https:\/\/www.adaptivesecurity.com\/",
+  "careersPage": "https:\/\/www.adaptivesecurity.com\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Junto Identity",
+  "companyWebsite": "https:\/\/juntoidentity.com\/",
+  "careersPage": "https:\/\/juntoidentity.com\/jobs",
+  "notes": "",
+  "category": "Cybersecurity"
+  }                            
 ]
