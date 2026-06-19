@@ -513,7 +513,7 @@
   {
     "companyName":"Lacuna Talent",
     "companyWebsite":"https:\/\/lacuna-talent.com\/",
-    "careersPage":null,
+    "careersPage":"https:\/\/www.careers-page.com\/lacuna-talent",
     "notes":"",
     "category":"recruiting-company"
   },
@@ -3874,6 +3874,6 @@
   "companyWebsite": "https:\/\/www.aephawaii.com\/",
   "careersPage": "https:\/\/talenthui.com\/jobs",
   "notes": "",
-  "category": "Recruiting Company"
+  "category": "recruiting-company"
   }                            
 ]
