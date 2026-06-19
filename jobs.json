@@ -1372,13 +1372,6 @@
     "category": "Cybersecurity"
   },
   {
-    "companyName": "NetRise",
-    "companyWebsite": "https:\/\/www.netrise.io\/",
-    "careersPage": "https:\/\/www.netrise.io\/company\/careers",
-    "notes": "",
-    "category": "Cybersecurity"
-  },
-  {
     "companyName": "Blackcloak",
     "companyWebsite": "https:\/\/blackcloak.io\/",
     "careersPage": "https:\/\/blackcloak.io\/careers\/",
@@ -3590,13 +3583,6 @@
   "category": "Cybersecurity, Tech"
   },
   {
-  "companyName": "runZero",
-  "companyWebsite": "https:\/\/www.runzero.com\/",
-  "careersPage": "https:\/\/www.runzero.com\/about\/careers\/",
-  "notes": "",
-  "category": "Cybersecurity"
-  },
-  {
   "companyName": "SpyCloud",
   "companyWebsite": "https:\/\/spycloud.com\/",
   "careersPage": "https:\/\/spycloud.com\/company\/careers\/",
@@ -3788,7 +3774,7 @@
   {
   "companyName": "SCYTHE",
   "companyWebsite": "https:\/\/scythe.io\/",
-  "careersPage": "https://scythe.io/careers",
+  "careersPage": "https:\/\/www.scythe.io\/careers",
   "notes": "",
   "category": "Cybersecurity"
   },
@@ -3861,5 +3847,33 @@
   "careersPage": "https:\/\/www.ghs.com\/corporate\/jobs.html",
   "notes": "",
   "category": "Cybersecurity, Tech"
+  },
+  {
+  "companyName": "DataGrail",
+  "companyWebsite": "https:\/\/www.datagrail.io\/",
+  "careersPage": "https:\/\/www.datagrail.io\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Aembit",
+  "companyWebsite": "https:\/\/aembit.io\/",
+  "careersPage": "https:\/\/aembit.io\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity, Tech"
+  },
+  {
+  "companyName": "Grip Security",
+  "companyWebsite": "https:\/\/www.grip.security\/",
+  "careersPage": "https:\/\/www.comeet.com\/jobs\/grip\/A8.001",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "AEP Hawaii",
+  "companyWebsite": "https:\/\/www.aephawaii.com\/",
+  "careersPage": "https:\/\/talenthui.com\/jobs",
+  "notes": "",
+  "category": "Recruiting Company"
   }                            
 ]
