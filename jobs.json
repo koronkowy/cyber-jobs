@@ -1505,13 +1505,6 @@
     "category": "Cybersecurity"
   },
   {
-    "companyName": "Panther Labs",
-    "companyWebsite": "https:\/\/panther.com\/",
-    "careersPage": "https:\/\/panther.com\/company\/careers",
-    "notes": "",
-    "category": "Cybersecurity"
-  },
-  {
     "companyName": "Tines",
     "companyWebsite": "https:\/\/www.tines.com\/",
     "careersPage": "https:\/\/www.tines.com\/careers\/",
@@ -1899,7 +1892,7 @@
   {
   "companyName": "Optery",
   "companyWebsite": "https:\/\/www.optery.com\/",
-  "careersPage": "https:\/\/jobs.ashbyhq.com\/optery",
+  "careersPage": "https:\/\/www.optery.com\/careers\/",
   "notes": "",
   "category": "Cybersecurity"
   },
@@ -2601,13 +2594,6 @@
   "careersPage": "https:\/\/careers.meron.co\/companies\/hopper-security-2?q=Buyer",
   "notes": "",
   "category": "Cybersecurity"
-  },
-  {
-  "companyName": "Apono",
-  "companyWebsite": "https:\/\/www.apono.io\/",
-  "careersPage": "https:\/\/www.apono.io\/careers\/",
-  "notes": "",
-  "category": "Cybersecurity, Tech"
   },
   {
   "companyName": "InvokeSec",
@@ -3875,5 +3861,61 @@
   "careersPage": "https:\/\/talenthui.com\/jobs",
   "notes": "",
   "category": "recruiting-company"
+  },
+  {
+  "companyName": "DirectDefense",
+  "companyWebsite": "https:\/\/www.directdefense.com\/",
+  "careersPage": "https:\/\/www.directdefense.com\/about-us\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "SailPoint",
+  "companyWebsite": "https:\/\/www.sailpoint.com\/",
+  "careersPage": "https:\/\/sailpoint.wd1.myworkdayjobs.com\/SailPoint\/jobs",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Ent",
+  "companyWebsite": "https:\/\/ent.ai\/",
+  "careersPage": "https:\/\/ent.ai\/joinus?ashby_jid=3fa21364-7dc8-4a20-affc-b9f5c616ff40",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Newcore",
+  "companyWebsite": "https:\/\/newcore.com\/",
+  "careersPage": "https:\/\/newcore-identity.careers.hibob.com\/jobs\/",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Dream",
+  "companyWebsite": "https:\/\/dreamgroup.com\/",
+  "careersPage": "https:\/\/dreamgroup.com\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "A Security",
+  "companyWebsite": "https:\/\/a.security\/",
+  "careersPage": "https:\/\/www.comeet.com\/jobs\/a_security\/EA.007",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Ayron Security",
+  "companyWebsite": "https:\/\/www.aryon.security\/",
+  "careersPage": "https:\/\/www.aryon.security\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Aryon Security",
+  "companyWebsite": "https:\/\/www.aryon.security\/",
+  "careersPage": "https:\/\/www.aryon.security\/careers",
+  "notes": "",
+  "category": "Cybersecurity"
   }                            
 ]
