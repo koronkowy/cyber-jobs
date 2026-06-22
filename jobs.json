@@ -308,11 +308,11 @@
     "category":"Cybersecurity"
   },
   {
-    "companyName":"NCC Group",
-    "companyWebsite":"https:\/\/www.nccgroup.com\/",
-    "careersPage":"https:\/\/www.nccgroupplc.com\/careers\/",
-    "notes":"",
-    "category":"Cybersecurity"
+  "companyName": "NCC Group",
+  "companyWebsite": "https:\/\/www.nccgroup.com\/",
+  "careersPage": "https:\/\/nccgroup.pinpointhq.com\/",
+  "notes": "",
+  "category": "Cybersecurity"
   },
   {
     "companyName":"Synack",
@@ -364,11 +364,11 @@
     "category":"Cybersecurity, Defence"
   },
   {
-    "companyName":"WithSecure",
-    "companyWebsite":"https:\/\/www.withsecure.com\/",
-    "careersPage":"https:\/\/www.withsecure.com\/en\/about-us\/careers-at-withsecure",
-    "notes":"",
-    "category":"Cybersecurity"
+  "companyName": "WithSecure",
+  "companyWebsite": "https:\/\/www.withsecure.com\/",
+  "careersPage": "https:\/\/www.withsecure.com\/en\/about-us\/careers\/",
+  "notes": "",
+  "category": "Cybersecurity"
   },
   {
     "companyName":"IOActive",
@@ -3917,5 +3917,12 @@
   "careersPage": "https:\/\/www.aryon.security\/careers",
   "notes": "",
   "category": "Cybersecurity"
+  },
+  {
+  "companyName": "Pool Re",
+  "companyWebsite": "https:\/\/www.poolre.co.uk\/",
+  "careersPage": "https:\/\/www.poolre.co.uk\/careers\/",
+  "notes": "",
+  "category": "Tech, Cybersecurity"
   }                            
 ]
