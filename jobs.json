@@ -3924,5 +3924,19 @@
   "careersPage": "https:\/\/www.poolre.co.uk\/careers\/",
   "notes": "",
   "category": "Tech, Cybersecurity"
+  },
+  {
+  "companyName": "Wipro",
+  "companyWebsite": "https:\/\/www.wipro.com\/",
+  "careersPage": "https:\/\/careers.wipro.com\/",
+  "notes": "",
+  "category": "Cybersecurity, Tech"
+  },
+  {
+  "companyName": "TRM Labs",
+  "companyWebsite": "https:\/\/www.trmlabs.com\/",
+  "careersPage": "https:\/\/www.trmlabs.com\/careers",
+  "notes": "",
+  "category": "Cybersecurity, Tech"
   }                            
 ]
