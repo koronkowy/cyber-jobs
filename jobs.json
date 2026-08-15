@@ -2916,7 +2916,7 @@
     "companyWebsite": "https:\/\/simetry.com\/",
     "careersPage": "https:\/\/simetry.com\/careers",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "semgrep",
@@ -3010,13 +3010,6 @@
     "category": "Cybersecurity"
   },
   {
-    "companyName": "Cyber Kick",
-    "companyWebsite": "https:\/\/cyberkick.com\/",
-    "careersPage": "https:\/\/cyberkick.com\/careers\/",
-    "notes": "",
-    "category": "Cybersecurity"
-  },
-  {
     "companyName": "Waterfall Security",
     "companyWebsite": "https:\/\/waterfall-security.com\/",
     "careersPage": "https:\/\/waterfall-security.com\/about-waterfall\/careers\/",
@@ -3028,7 +3021,7 @@
     "companyWebsite": "https:\/\/cyesec.com\/",
     "careersPage": "https:\/\/cyesec.com\/careers",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "CYFOX",
@@ -3042,7 +3035,7 @@
     "companyWebsite": "https:\/\/www.razorsecure.com\/",
     "careersPage": "https:\/\/www.razorsecure.com\/careers",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Cylus",
@@ -3098,7 +3091,7 @@
     "companyWebsite": "https:\/\/www.pindrop.com\/",
     "careersPage": "https:\/\/www.pindrop.com\/company\/careers\/",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "RapidFort",
@@ -3119,7 +3112,7 @@
     "companyWebsite": "https:\/\/www.cdg.io\/",
     "careersPage": "https:\/\/www.cdg.io\/cybersecurity-careers\/",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Twine",
@@ -3154,7 +3147,7 @@
     "companyWebsite": "https:\/\/www.valencesecurity.com\/",
     "careersPage": "https:\/\/www.valencesecurity.com\/careers",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Chainalysis",
@@ -3196,7 +3189,7 @@
     "companyWebsite": "https:\/\/www.minimus.io\/",
     "careersPage": "https:\/\/www.minimus.io\/careers",
     "notes": "",
-    "category": "Tech, Cybersecurity"
+    "category": "cybersecurity, tech"
   },
   {
     "companyName": "Remedio",
@@ -3294,7 +3287,7 @@
     "companyWebsite": "https:\/\/www.ninjaone.com\/",
     "careersPage": "https:\/\/www.ninjaone.com\/careers\/",
     "notes": "",
-    "category": "Cybersecurity, Tech"
+    "category": "cybersecurity, tech"
   },
   {
     "companyName": "CTM360",
@@ -3315,14 +3308,14 @@
     "companyWebsite": "https:\/\/ipinfo.io\/",
     "careersPage": "https:\/\/ipinfo.io\/jobs",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "cPacket",
     "companyWebsite": "https:\/\/www.cpacket.com\/",
     "careersPage": "https:\/\/www.cpacket.com\/company#Careers",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Zero Networks",
@@ -3434,7 +3427,7 @@
     "companyWebsite": "https:\/\/www.andromedasecurity.com\/",
     "careersPage": "https:\/\/www.andromedasecurity.com\/careers",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "p0 Security",
@@ -3651,7 +3644,7 @@
     "companyWebsite": "https:\/\/offensys.nl\/",
     "careersPage": "https:\/\/offensys.nl\/careers",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Concentric",
@@ -3861,7 +3854,7 @@
     "companyWebsite": "https:\/\/www.directdefense.com\/",
     "careersPage": "https:\/\/www.directdefense.com\/about-us\/careers\/",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "SailPoint",
@@ -4093,5 +4086,19 @@
     "careersPage": "https:\/\/jobs.insightpartners.com\/jobs",
     "notes": "",
     "category": "portfolio"
+  },
+  {
+    "companyName": "Clearly AI",
+    "companyWebsite": "https:\/\/clearly-ai.com\/",
+    "careersPage": "https:\/\/jobs.ashbyhq.com\/clearly-ai",
+    "notes": "",
+    "category": "cybersecurity"
+  },
+  {
+    "companyName": "Quadtec Solutions Inc.",
+    "companyWebsite": "https:\/\/quadtec.com\/",
+    "careersPage": "https:\/\/quadtec.com\/careers\/current-opening\/",
+    "notes": "",
+    "category": "recruiter"
   }                            
 ]
