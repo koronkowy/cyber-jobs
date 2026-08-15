@@ -8,6 +8,22 @@ cyber-jobs
 
 This is a cute little collection of companies easily paired with the careers pages of those respective companies. These companies might be tech companies broadly (tagged as such), recruiting companies, nonprofits, defence companies, and or meet multiple categorizations. You can search if you want to quickly see a company on the list.
 
+Company Categories
+========
+
+- recruiting - Recruiting companies
+
+- nonprofit - Nonprofit orgs
+
+- defence - Defence Companies
+
+- tech - Known as a tech company not just a Cyber specific company, think Google or Cisco
+
+- portfolio - These are job boards for entire VC or Investment orgs, lots of companies are in these
+
+- cybersecurity - Companies that sell Cybersecurity products or services
+
+
 How To Submit
 ===============
 
