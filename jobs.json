@@ -3357,7 +3357,7 @@
     "companyWebsite": "https:\/\/www.dropzone.ai\/",
     "careersPage": "https:\/\/ats.rippling.com\/dropzone-ai\/jobs",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Native",
@@ -3455,7 +3455,7 @@
     "companyWebsite": "https:\/\/www.linx.security\/",
     "careersPage": "https:\/\/www.linx.security\/careers",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Oasis Security",
@@ -3931,7 +3931,7 @@
     "companyWebsite": "https:\/\/kasm.com\/",
     "careersPage": "https:\/\/kasm.com\/careers",
     "notes": "",
-    "category": "Cybersecurity, Tech"
+    "category": "cybersecurity, tech"
   },
   {
     "companyName":"Amplify Partners",
@@ -4100,5 +4100,26 @@
     "careersPage": "https:\/\/quadtec.com\/careers\/current-opening\/",
     "notes": "",
     "category": "recruiter"
+  },
+  {
+  "companyName": "Schellman",
+  "companyWebsite": "https:\/\/www.schellman.com\/",
+  "careersPage": "https:\/\/www.schellman.com\/careers",
+  "notes": "",
+  "category": "cybersecurity, tech"
+  },
+  {
+    "companyName": "Blackpoint Cyber",
+    "companyWebsite": "https:\/\/blackpointcyber.com\/",
+    "careersPage": "https:\/\/blackpointcyber.com\/company\/careers\/",
+    "notes": "",
+    "category": "cybersecurity"
+  },
+  {
+  "companyName": "Cynet",
+  "companyWebsite": "https:\/\/www.cynet.com\/",
+  "careersPage": "https:\/\/www.cynet.com\/careers",
+  "notes": "",
+  "category": "cybersecurity"
   }                            
 ]
