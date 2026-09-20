@@ -2230,7 +2230,7 @@
     "companyWebsite": "https:\/\/www.terra.security\/",
     "careersPage": "https:\/\/www.terra.security\/careers",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "XBOW",
@@ -3868,7 +3868,7 @@
     "companyWebsite": "https:\/\/ent.ai\/",
     "careersPage": "https:\/\/ent.ai\/joinus?ashby_jid=3fa21364-7dc8-4a20-affc-b9f5c616ff40",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Newcore",
@@ -4147,6 +4147,20 @@
   "companyName": "Matano",
   "companyWebsite": "https:\/\/matanosecurity.com\/",
   "careersPage": "https:\/\/www.ycombinator.com\/companies/matano/jobs",
+  "notes": "",
+  "category": "cybersecurity"
+  },
+  {
+  "companyName": "Noma Security",
+  "companyWebsite": "https:\/\/noma.security\/",
+  "careersPage": "https:\/\/noma.security\/careers",
+  "notes": "",
+  "category": "cybersecurity"
+  },
+  {
+  "companyName": "Echo",
+  "companyWebsite": "https:\/\/www.echo.ai\/",
+  "careersPage": "https:\/\/www.echo.ai\/careers",
   "notes": "",
   "category": "cybersecurity"
   }                            
