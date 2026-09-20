@@ -270,7 +270,7 @@
     "companyWebsite":"https:\/\/www.bishopfox.com\/",
     "careersPage":"https:\/\/www.bishopfox.com\/careers",
     "notes":"",
-    "category":"Cybersecurity"
+    "category":"cybersecurity"
   },
   {
     "companyName":"Offensive Security",
@@ -508,7 +508,7 @@
     "companyWebsite":"https:\/\/www.rsa.com\/",
     "careersPage":"https:\/\/www.rsa.com\/rsa-careers\/",
     "notes":"",
-    "category":"Cybersecurity"
+    "category":"cybersecurity"
   },
   {
     "companyName":"Lacuna Talent",
@@ -711,7 +711,7 @@
     "companyWebsite":"https:\/\/www.axon.com\/",
     "careersPage":"https:\/\/boards.greenhouse.io\/axon",
     "notes":"",
-    "category":"Defence"
+    "category":"defence, cybersecurity, tech"
   },
   {
     "companyName":"Mark43",
@@ -732,7 +732,7 @@
     "companyWebsite":"https:\/\/www.debunk.org\/",
     "careersPage":"https:\/\/www.debunk.org\/career",
     "notes":"",
-    "category":"Nonprofit"
+    "category":"nonprofit"
   },
   {
     "companyName":"Office of the Director of National Intelligence",
@@ -1190,13 +1190,6 @@
     "category": "Cybersecurity"
   },
   {
-    "companyName": "Inky",
-    "companyWebsite": "https:\/\/www.inky.com\/",
-    "careersPage": "https:\/\/www.inky.com\/careers",
-    "notes": "",
-    "category": "Cybersecurity"
-  },
-  {
     "companyName": "Jit",
     "companyWebsite": "https:\/\/www.jit.io\/",
     "careersPage": "https:\/\/www.jit.io\/career",
@@ -1215,7 +1208,7 @@
     "companyWebsite": "https:\/\/www.ory.sh\/",
     "careersPage": "https:\/\/www.ory.sh\/jobs\/",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Persona",
@@ -1383,7 +1376,7 @@
     "companyWebsite": "https:\/\/www.wwt.com\/",
     "careersPage": "https:\/\/www.wwt.com\/corporate\/why-wwt\/careers",
     "notes": "",
-    "category": "Tech, Cybersecurity"
+    "category": "tech, cybersecurity"
   },
   {
     "companyName": "GuidePoint Security",
@@ -1516,7 +1509,7 @@
     "companyWebsite": "https:\/\/www.hunters.security\/",
     "careersPage": "https:\/\/www.hunters.security\/careers",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Stairwell",
@@ -1593,7 +1586,7 @@
     "companyWebsite": "https:\/\/www.silentpush.com\/",
     "careersPage": "https:\/\/www.silentpush.com\/company\/careers\/",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "SOCRadar",
@@ -1740,7 +1733,7 @@
     "companyWebsite": "https:\/\/www.indykite.com\/",
     "careersPage": "https:\/\/www.indykite.com\/careers",
     "notes": "",
-    "category": "Tech, Cybersecurity"
+    "category": "tech, cybersecurity"
   },
   {
     "companyName": "Cyware",
@@ -1782,7 +1775,7 @@
     "companyWebsite": "https:\/\/www.blackduck.com\/",
     "careersPage": "https:\/\/www.blackduck.com\/company\/careers.html",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Deep Instinct",
@@ -2048,7 +2041,7 @@
     "companyWebsite": "https:\/\/www.magnetforensics.com\/",
     "careersPage": "https:\/\/www.magnetforensics.com\/careers-at-magnet\/",
     "notes": "",
-    "category": "Cybersecurity, Defence, Tech"
+    "category": "cybersecurity, defence, tech"
   },
   {
     "companyName": "Veritone",
@@ -2244,7 +2237,7 @@
     "companyWebsite": "https:\/\/casco.com\/",
     "careersPage": "https:\/\/casco.com\/careers",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Foresite Cybersecurity",
@@ -2860,7 +2853,7 @@
     "companyWebsite": "https:\/\/www.centraleyes.com\/",
     "careersPage": "https:\/\/www.centraleyes.com\/careers\/",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "CentrexIT",
@@ -3518,7 +3511,7 @@
     "companyWebsite": "https:\/\/joindeleteme.com\/",
     "careersPage": "https:\/\/joindeleteme.com\/careers\/",
     "notes": "",
-    "category": "Cybersecurity, Tech"
+    "category": "cybersecurity, tech"
   },
   {
     "companyName": "Kanary",
@@ -3924,7 +3917,7 @@
     "companyWebsite": "https:\/\/www.trmlabs.com\/",
     "careersPage": "https:\/\/www.trmlabs.com\/careers",
     "notes": "",
-    "category": "Cybersecurity, Tech"
+    "category": "cybersecurity, tech"
   },
   {
     "companyName": "Kasm Workspaces",
@@ -4170,5 +4163,12 @@
     "careersPage": "https:\/\/www.crisis24.com\/careers",
     "notes": "",
     "category": "cybersecurity, tech"
+  },
+  {
+    "companyName": "Oneleet",
+    "companyWebsite": "https:\/\/www.oneleet.com\/",
+    "careersPage": "https:\/\/www.ycombinator.com\/companies\/oneleet\/jobs",
+    "notes": "",
+    "category": "cybersecurity"
   }                            
 ]
