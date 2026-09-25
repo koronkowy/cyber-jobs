@@ -11,14 +11,47 @@
     <h1>cyber-jobs</h1>
     
     <!-- Subheading with links -->
-    <p class="subheading">
+    <div class="subheading">
       Companies that hire for Cybersecurity with Career Pages 
-      | <a href="https://koronkowy.tumblr.com/" target="_blank">blog</a>
-      | <a href="https://github.com/koronkowy" target="_blank">github</a>
-      | <a href="https://github.com/koronkowy/cyber-jobs#readme" target="_blank">readme</a> 
-      | <a href="https://hackroost.net" target="_blank">hackroost</a> 
-      | <a href="https://koronkowy.github.io/terms-list" target="_blank">terms-list</a>
-    </p>
+      | <a onclick="toggleBubble('about-bubble')">[ About ]</a>
+      • <a onclick="toggleBubble('guide-bubble')">[ Usage Guide ]</a>
+      • <a href="https://koronkowy.github.io/Threaty/" target="_blank">[ Job Board ]</a>
+    </div>
+
+    <div id="about-bubble" class="bubble-area">
+      <div class="bubble-header">
+        <strong>🛡️ About cyber-jobs / Purpose</strong>
+        <a class="close-bubble" onclick="toggleBubble('about-bubble')">[ Hide ]</a>
+      </div>
+      <p>
+        This is a cute little collection of companies easily paired with the careers pages of those respective companies. These companies might be tech companies broadly (tagged as such), recruiting companies, nonprofits, defence companies, and or meet multiple categorizations. You can search if you want to quickly see a company on the list.
+      </p>
+      <div class="credits" style="margin-top: 15px; border-top: 1px solid #ddd; padding-top: 10px; font-size: 0.9em;">
+        <p style="margin: 5px 0;">
+          Created by <a href="https://www.laceykasten.com/" target="_blank" style="color:#0078D4; text-decoration:none;">Lacey Kasten</a>.
+        </p>
+        <p style="margin: 5px 0;">
+          <em>Follow the project or contribute on <a href="https://github.com/koronkowy/cyber-jobs" target="_blank" style="color:#0078D4; text-decoration:none;">GitHub</a>.</em>
+        </p>
+      </div>
+    </div>
+
+    <div id="guide-bubble" class="bubble-area">
+      <div class="bubble-header">
+        <strong>⚙️ How to Navigate the List</strong>
+        <a class="close-bubble" onclick="toggleBubble('guide-bubble')">[ Hide ]</a>
+      </div>
+      <p>Use the search engine below to quickly scan and find a company on the list.</p>
+      <p><strong>Company Categories:</strong></p>
+      <ul>
+        <li><strong>recruiting</strong> - Recruiting companies</li>
+        <li><strong>nonprofit</strong> - Nonprofit orgs</li>
+        <li><strong>defence</strong> - Defence Companies</li>
+        <li><strong>tech</strong> - Known as a tech company not just a Cyber specific company, think Google or Cisco</li>
+        <li><strong>portfolio</strong> - These are job boards for entire VC or Investment orgs, lots of companies are in these</li>
+        <li><strong>cybersecurity</strong> - Companies that sell Cybersecurity products or services</li>
+      </ul>
+    </div>
 
     <input type="text" id="searchBar" placeholder="Search for a company..." />
     <div id="job-list" class="job-list"></div>

@@ -1,3 +1,14 @@
+function toggleBubble(bubbleId) {
+    const el = document.getElementById(bubbleId);
+    const targets = ['about-bubble', 'guide-bubble'];
+    targets.forEach(t => {
+        if (t !== bubbleId) {
+            document.getElementById(t).style.display = 'none';
+        }
+    });
+    el.style.display = (el.style.display === 'block') ? 'none' : 'block';
+}
+
 document.addEventListener('DOMContentLoaded', () => {
     let allJobs = []; // To store all jobs for easy filtering
   
