@@ -1,4 +1,4 @@
-<img width="1718" alt="Screenshot 2024-11-06 at 4 55 00 PM" src="https://github.com/user-attachments/assets/8fc0674b-43ad-4f3a-95ba-e749714ee615">
+<img width="1714" height="888" alt="Screenshot 2026-09-24 at 7 09 56 PM" src="https://github.com/user-attachments/assets/cd16849e-f096-45eb-a998-36188ae22062" />
 
 
 Location: https://koronkowy.github.io/cyber-jobs/index.html
