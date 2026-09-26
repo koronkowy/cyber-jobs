@@ -1355,7 +1355,7 @@
     "companyWebsite": "https://www.clutch.security/",
     "careersPage": "https://www.clutch.security/join",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Coalition",
@@ -3570,13 +3570,6 @@
     "category": "portfolio"
   },
   {
-    "companyName": "Seraphic Security",
-    "companyWebsite": "https://seraphicsecurity.com/",
-    "careersPage": "https://seraphicsecurity.com/careers/",
-    "notes": "",
-    "category": "Cybersecurity"
-  },
-  {
     "companyName": "Shift 5",
     "companyWebsite": "https://shift5.io/",
     "careersPage": "https://shift5.io/careers/",
@@ -3819,7 +3812,7 @@
     "companyWebsite": "https://www.team-cymru.com/",
     "careersPage": "https://www.team-cymru.com/careers",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "TENEX",
@@ -4205,5 +4198,145 @@
     "careersPage": "https://www.zerofox.com/careers/",
     "notes": "",
     "category": "cybersecurity, tech"
+  },
+  {
+    "companyName": "LexisNexis",
+    "companyWebsite": "https:\/\/www.lexisnexis.com\/",
+    "careersPage": "https:\/\/risk.lexisnexis.com\/corporate\/careers",
+    "notes": "",
+    "category": "tech, cybersecurity"
+  },
+  {
+    "companyName": "Neo4j",
+    "companyWebsite": "https:\/\/neo4j.com\/",
+    "careersPage": "https:\/\/neo4j.com\/careers\/",
+    "notes": "",
+    "category": "tech"
+  },
+  {
+    "companyName": "Graphistry",
+    "companyWebsite": "https:\/\/www.graphistry.com\/",
+    "careersPage": "https:\/\/www.graphistry.com\/careers",
+    "notes": "",
+    "category": "tech, cybersecurity"
+  },
+  {
+    "companyName": "Tom Sawyer Software",
+    "companyWebsite": "https:\/\/www.tomsawyer.com\/",
+    "careersPage": "https:\/\/www.tomsawyer.com\/careers",
+    "notes": "",
+    "category": "cybersecurity, tech"
+  },
+  {
+    "companyName": "DataWalk",
+    "companyWebsite": "https:\/\/datawalk.com\/",
+    "careersPage": "https:\/\/datawalk.com\/career-emea\/",
+    "notes": "",
+    "category": "cybersecurity, tech"
+  },
+  {
+    "companyName": "Linkurious",
+    "companyWebsite": "https:\/\/linkurious.com\/",
+    "careersPage": "https:\/\/linkurious.com\/careers\/",
+    "notes": "",
+    "category": "tech, cybersecurity"
+  },
+  {
+    "companyName": "Palantir",
+    "companyWebsite": "https:\/\/www.palantir.com\/",
+    "careersPage": "https:\/\/www.palantir.com\/careers\/",
+    "notes": "",
+    "category": "cybersecurity, tech"
+  },
+  {
+    "companyName": "Paliscope",
+    "companyWebsite": "https:\/\/www.paliscope.com\/",
+    "careersPage": "https:\/\/www.paliscope.com\/career\/",
+    "notes": "",
+    "category": "cybersecurity"
+  },
+  {
+    "companyName": "i2 Group",
+    "companyWebsite": "https:\/\/i2group.com\/",
+    "careersPage": "https:\/\/i2group.com\/careers",
+    "notes": "",
+    "category": "cybersecurity, tech"
+  },
+  {
+    "companyName": "Siren",
+    "companyWebsite": "https:\/\/siren.io\/",
+    "careersPage": "https:\/\/siren.io\/careers\/",
+    "notes": "",
+    "category": "cybersecurity"
+  },
+  {
+    "companyName": "Web-IQ",
+    "companyWebsite": "https:\/\/www.web-iq.com\/",
+    "careersPage": "https:\/\/www.web-iq.com\/careers",
+    "notes": "",
+    "category": "cybersecurity"
+  },
+  {
+    "companyName": "Executech",
+    "companyWebsite": "https:\/\/executech.com\/",
+    "careersPage": "https:\/\/executech.com\/careers\/",
+    "notes": "",
+    "category": "cybersecurity, tech"
+  },
+  {
+    "companyName": "Rayzone Group",
+    "companyWebsite": "https:\/\/rayzone.com\/",
+    "careersPage": "https:\/\/rayzone.com\/careers\/",
+    "notes": "",
+    "category": "cybersecurity, tech"
+  },
+  {
+    "companyName": "Septier",
+    "companyWebsite": "https:\/\/www.septier.com\/",
+    "careersPage": "https:\/\/www.septier.com\/company#careers",
+    "notes": "",
+    "category": "cybersecurity, tech"
+  },
+  {
+    "companyName": "Chorus Intelligence",
+    "companyWebsite": "https:\/\/chorusintel.com\/",
+    "careersPage": "https:\/\/chorusintel.com\/why-chorus\/careers\/",
+    "notes": "",
+    "category": "cybersecurity"
+  },
+  {
+    "companyName": "ShadowDragon",
+    "companyWebsite": "https:\/\/shadowdragon.io\/",
+    "careersPage": "https:\/\/shadowdragon.io\/careers\/",
+    "notes": "",
+    "category": "cybersecurity"
+  },
+  {
+    "companyName": "Fivecast",
+    "companyWebsite": "https:\/\/www.fivecast.com\/",
+    "careersPage": "https:\/\/www.fivecast.com\/careers\/",
+    "notes": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Bfore.ai",
+    "companyWebsite": "https:\/\/bfore.ai\/",
+    "careersPage": "https:\/\/bfore.ai\/join\/",
+    "notes": "",
+    "category": "cybersecurity"
+  },
+  {
+    "companyName": "KELA",
+    "companyWebsite": "https:\/\/www.kelacyber.com\/",
+    "careersPage": "https:\/\/www.kelacyber.com\/careers\/",
+    "notes": "",
+    "category": "cybersecurity"
+  },
+  {
+    "companyName": "Cambridge Intelligence",
+    "companyWebsite": "https:\/\/cambridge-intelligence.com\/",
+    "careersPage": "https:\/\/cambridge-intelligence.com\/company\/careers\/",
+    "notes": "",
+    "category": "tech"
   }                            
 ]
