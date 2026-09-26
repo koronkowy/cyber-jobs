@@ -270,7 +270,7 @@
     "companyWebsite": "https://www.kforce.com/",
     "careersPage": "https://www.kforce.com/find-work/search-jobs/#/?t=&l=%5B%5D",
     "notes": "",
-    "category": "Tech, recruiting-company"
+    "category": "tech, recruiter"
   },
   {
     "companyName": "Kroll",
@@ -718,7 +718,7 @@
     "companyWebsite": "https://www.sumologic.com/",
     "careersPage": "https://www.sumologic.com/careers/",
     "notes": "",
-    "category": "Cybersecurity, Tech"
+    "category": "cybersecurity, tech"
   },
   {
     "companyName": "Trace3",
@@ -1369,7 +1369,7 @@
     "companyWebsite": "https://cobalt.io/",
     "careersPage": "https://cobalt.io/careers",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "CodeHunter",
@@ -1558,7 +1558,7 @@
     "companyWebsite": "https://www.cybermaxx.com/",
     "careersPage": "https://www.cybermaxx.com/careers/",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "CyberNX",
@@ -1580,13 +1580,6 @@
     "careersPage": "https://scoopnewsgroup.com/workhere/",
     "notes": "",
     "category": "Cybersecurity"
-  },
-  {
-    "companyName": "CyberSpring",
-    "companyWebsite": "https://cyberspring.io/",
-    "careersPage": "https://cyberspring.io/latest-jobs/",
-    "notes": "",
-    "category": "recruiting-company"
   },
   {
     "companyName": "Cyble",
@@ -1726,7 +1719,7 @@
     "companyWebsite": "https://www.deepseas.com/",
     "careersPage": "https://deepseas.pinpointhq.com/",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "DeepInstinct",
@@ -2100,13 +2093,6 @@
     "category": "Cybersecurity"
   },
   {
-    "companyName": "Ghost Security",
-    "companyWebsite": "https://ghostsecurity.com/",
-    "careersPage": "https://ghostsecurity.com/join-ghost",
-    "notes": "",
-    "category": "Cybersecurity"
-  },
-  {
     "companyName": "GitGuardian",
     "companyWebsite": "https://www.gitguardian.com/",
     "careersPage": "https://www.gitguardian.com/careers",
@@ -2363,7 +2349,7 @@
     "companyWebsite": "https://intaso.co/",
     "careersPage": "https://intaso.co/jobs",
     "notes": "",
-    "category": "recruiting-company"
+    "category": "recruiter"
   },
   {
     "companyName": "Intel471",
@@ -2566,7 +2552,7 @@
     "companyWebsite": "https://lacuna-talent.com/",
     "careersPage": "https://www.careers-page.com/lacuna-talent",
     "notes": "",
-    "category": "recruiting-company"
+    "category": "recruiter"
   },
   {
     "companyName": "Lares Consulting",
@@ -2580,7 +2566,7 @@
     "companyWebsite": "https://www.lavendo.io/",
     "careersPage": "https://www.lavendo.io/jobs",
     "notes": "",
-    "category": "recruiting-company"
+    "category": "recruiter"
   },
   {
     "companyName": "Legion Security",
@@ -2601,7 +2587,7 @@
     "companyWebsite": "https://www.leviathansecurity.com/",
     "careersPage": "https://www.leviathansecurity.com/careers",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Lightspeed Ventures",
@@ -2629,7 +2615,7 @@
     "companyWebsite": "https://www.locke44.com/",
     "careersPage": "https://www.locke44.com/careers",
     "notes": "",
-    "category": "recruiting-company"
+    "category": "recruiter"
   },
   {
     "companyName": "Lofty Ventures",
@@ -2741,7 +2727,7 @@
     "companyWebsite": "https://motionrecruitment.com/",
     "careersPage": "https://motionrecruitment.com/tech-jobs",
     "notes": "",
-    "category": "recruiting-company"
+    "category": "recruiter"
   },
   {
     "companyName": "MSAB",
@@ -2916,7 +2902,7 @@
     "companyWebsite": "https://www.offensive-security.com/",
     "careersPage": "https://www.offensive-security.com/careers/",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Offensys",
@@ -3889,7 +3875,7 @@
     "companyWebsite": "https://www.token.security/",
     "careersPage": "https://www.token.security/company/careers",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Tracecat",
@@ -4338,5 +4324,40 @@
     "careersPage": "https:\/\/cambridge-intelligence.com\/company\/careers\/",
     "notes": "",
     "category": "tech"
+  },
+  {
+    "companyName": "Backblaze",
+    "companyWebsite": "https:\/\/www.backblaze.com\/",
+    "careersPage": "https:\/\/www.backblaze.com\/company\/jobs",
+    "notes": "",
+    "category": "tech"
+  },
+  {
+    "companyName": "Ghost Security",
+    "companyWebsite": "https:\/\/ghostsecurity.com\/",
+    "careersPage": "https:\/\/ghostsecurity.ai\/about\/#join-us",
+    "notes": "",
+    "category": "cybersecurity"
+  },
+  {
+    "companyName": "Aerotek",
+    "companyWebsite": "https:\/\/www.aerotek.com\/",
+    "careersPage": "https:\/\/www.aerotek.com\/en\/career-opportunities",
+    "notes": "",
+    "category": "recruiter"
+  },
+  {
+    "companyName": "Robert Half",
+    "companyWebsite": "https:\/\/www.roberthalf.com\/us\/en",
+    "careersPage": "https:\/\/www.roberthalf.com\/us\/en\/find-jobs",
+    "notes": "",
+    "category": "recruiter"
+  },
+  {
+    "companyName": "Teksystems",
+    "companyWebsite": "https:\/\/www.teksystems.com\/",
+    "careersPage": "https:\/\/careers.teksystems.com\/us\/en",
+    "notes": "",
+    "category": "recruiter, tech"
   }                            
 ]
