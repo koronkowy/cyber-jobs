@@ -25,7 +25,7 @@
     "companyWebsite": "https://www.battelle.org/",
     "careersPage": "https://www.battelle.org/careers",
     "notes": "",
-    "category": "Cybersecurity, Defence"
+    "category": "cybersecurity, defence"
   },
   {
     "companyName": "Broadcom",
@@ -67,7 +67,7 @@
     "companyWebsite": "https://google.com/",
     "careersPage": "https://www.google.com/about/careers/",
     "notes": "",
-    "category": "Cybersecurity, Tech"
+    "category": "cybersecurity, tech"
   },
   {
     "companyName": "IBM",
@@ -3777,7 +3777,7 @@
     "companyWebsite": "https://tailscale.com/",
     "careersPage": "https://tailscale.com/careers",
     "notes": "",
-    "category": "Cybersecurity, Tech"
+    "category": "cybersecurity, tech"
   },
   {
     "companyName": "Tanium",
@@ -4366,5 +4366,19 @@
     "careersPage": "https:\/\/blackdotsolutions.com\/careers",
     "notes": "",
     "category": "cybersecurity"
+  },
+  {
+    "companyName": "Uncharted Software",
+    "companyWebsite": "https:\/\/uncharted.software\/",
+    "careersPage": "https:\/\/uncharted.software\/our-team\/",
+    "notes": "",
+    "category": "cybersecurity, tech"
+  },
+  {
+    "companyName": "IRIS Technology",
+    "companyWebsite": "https:\/\/www.iristechnology.com\/",
+    "careersPage": "https:\/\/www.iristechnology.com\/careers",
+    "notes": "",
+    "category": "cybersecurity, tech"
   }                            
 ]
