@@ -158,7 +158,7 @@
     "companyWebsite": "https://www.acronis.com/",
     "careersPage": "https://www.acronis.com/en-us/careers/",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Axon",
@@ -200,7 +200,7 @@
     "companyWebsite": "https://www.datadoghq.com/",
     "careersPage": "https://www.datadoghq.com/careers/",
     "notes": "",
-    "category": "Tech, Cybersecurity"
+    "category": "tech, cybersecurity"
   },
   {
     "companyName": "Datto",
@@ -249,14 +249,14 @@
     "companyWebsite": "https://www.greynoise.io/",
     "careersPage": "https://www.greynoise.io/careers",
     "notes": "",
-    "category": "Cybersecurity, Defence"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Ivanti",
     "companyWebsite": "https://www.ivanti.com/",
     "careersPage": "https://www.ivanti.com/company/careers",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity, tech"
   },
   {
     "companyName": "Kaseya",
@@ -291,14 +291,14 @@
     "companyWebsite": "https://www.mimecast.com/",
     "careersPage": "https://careers.mimecast.com/en/",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Okta",
     "companyWebsite": "https://www.okta.com/",
     "careersPage": "https://www.okta.com/company/careers/",
     "notes": "",
-    "category": "Cybersecurity, Tech"
+    "category": "tech"
   },
   {
     "companyName": "Palo Alto Networks",
@@ -312,7 +312,7 @@
     "companyWebsite": "https://www.pingidentity.com/",
     "careersPage": "https://www.pingidentity.com/en/company/careers.html",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity, tech"
   },
   {
     "companyName": "Proofpoint",
@@ -361,7 +361,7 @@
     "companyWebsite": "https://www.solarwinds.com/",
     "careersPage": "https://jobs.solarwinds.com/",
     "notes": "",
-    "category": "Cybersecurity, Tech"
+    "category": "cybersecurity, tech"
   },
   {
     "companyName": "Sophos",
@@ -494,7 +494,7 @@
     "companyWebsite": "https://www.coalfire.com/",
     "careersPage": "https://www.coalfire.com/Careers",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Constellis",
@@ -562,9 +562,9 @@
   {
     "companyName": "ExtraHop",
     "companyWebsite": "https://www.extrahop.com/",
-    "careersPage": "https://www.extrahop.com/company/careers/",
+    "careersPage": "https://www.extrahop.com/careers",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Forescout",
@@ -641,7 +641,7 @@
     "companyWebsite": "https://www.netskope.com/",
     "careersPage": "https://www.netskope.com/company/careers",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "OneSpan",
@@ -739,7 +739,7 @@
     "companyWebsite": "https://www.veracode.com/",
     "careersPage": "https://www.veracode.com/about/careers",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "WithSecure",
@@ -1845,7 +1845,7 @@
     "companyWebsite": "https://drata.com/",
     "careersPage": "https://drata.com/about/careers",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Dream",
@@ -1887,7 +1887,7 @@
     "companyWebsite": "https://ethicalhacking.eccouncil.org/",
     "careersPage": "https://www.eccouncil.org/become-an-ec-council-subject-matter-expert/",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Echo",
@@ -2048,7 +2048,7 @@
     "companyWebsite": "https://www.fortra.com/",
     "careersPage": "https://www.fortra.com/about/careers",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity, tech"
   },
   {
     "companyName": "Fortreum",
@@ -2258,7 +2258,7 @@
     "companyWebsite": "https://www.huntress.com/",
     "careersPage": "https://www.huntress.com/company/careers",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Hypori",
@@ -2965,7 +2965,7 @@
     "companyWebsite": "https://www.onetrust.com/",
     "careersPage": "https://www.onetrust.com/careers/",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Onix",
@@ -3087,13 +3087,6 @@
     "category": "Cybersecurity"
   },
   {
-    "companyName": "Pangea",
-    "companyWebsite": "https://pangea.cloud/",
-    "careersPage": "https://pangea.cloud/careers/",
-    "notes": "",
-    "category": "Cybersecurity"
-  },
-  {
     "companyName": "Parsons",
     "companyWebsite": "https://www.parsons.com/",
     "careersPage": "https://jobs.parsons.com/",
@@ -3161,7 +3154,7 @@
     "companyWebsite": "https://www.pipercompanies.com/",
     "careersPage": "https://www.pipercompanies.com/find-jobs-employment-agency/",
     "notes": "",
-    "category": "Tech, recruiting-company, Cybersecurity"
+    "category": "tech, recruiter, cybersecurity"
   },
   {
     "companyName": "plainID",
@@ -3217,7 +3210,7 @@
     "companyWebsite": "https://prescientsecurity.com/",
     "careersPage": "https://prescientsecurity.com/careers",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Pretera",
@@ -3356,13 +3349,6 @@
     "companyName": "Recorded Future",
     "companyWebsite": "https://www.recordedfuture.com/",
     "careersPage": "https://www.recordedfuture.com/careers",
-    "notes": "",
-    "category": "Cybersecurity"
-  },
-  {
-    "companyName": "Red Siege",
-    "companyWebsite": "https://redsiege.com/",
-    "careersPage": "https://redsiege.com/about-us/careers/",
     "notes": "",
     "category": "Cybersecurity"
   },
@@ -3693,7 +3679,7 @@
     "companyWebsite": "https://www.specterops.io/",
     "careersPage": "https://www.specterops.io/careers",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Spikerz",
@@ -3924,7 +3910,7 @@
     "companyWebsite": "https://www.trustedsec.com/",
     "careersPage": "https://trustedsec.com/about-us/careers",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Tufin",
