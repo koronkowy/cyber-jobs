@@ -53,7 +53,7 @@
     "companyWebsite": "https://www.f5.com/",
     "careersPage": "https://www.f5.com/company/careers",
     "notes": "",
-    "category": "Cybersecurity, Tech"
+    "category": "cybersecurity, tech"
   },
   {
     "companyName": "General Dynamics Missions Systems",
@@ -224,13 +224,6 @@
     "category": "cybersecurity"
   },
   {
-    "companyName": "Forcepoint",
-    "companyWebsite": "https://www.forcepoint.com/",
-    "careersPage": "https://www.forcepoint.com/company/work-with-us",
-    "notes": "",
-    "category": "Cybersecurity"
-  },
-  {
     "companyName": "Fortinet",
     "companyWebsite": "https://www.fortinet.com/",
     "careersPage": "https://www.fortinet.com/corporate/careers",
@@ -277,7 +270,7 @@
     "companyWebsite": "https://www.kroll.com/en",
     "careersPage": "https://careers.kroll.com/",
     "notes": "",
-    "category": "Cybersecurity, Defence"
+    "category": "cybersecurity, defence"
   },
   {
     "companyName": "McAfee",
@@ -326,7 +319,7 @@
     "companyWebsite": "https://www.qualys.com/",
     "careersPage": "https://www.qualys.com/company/careers/",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Randstad",
@@ -403,7 +396,7 @@
     "companyWebsite": "https://www.varonis.com/",
     "careersPage": "https://www.varonis.com/company/careers/",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Verisign",
@@ -557,7 +550,7 @@
     "companyWebsite": "https://www.exabeam.com/",
     "careersPage": "https://www.exabeam.com/company/careers/",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "ExtraHop",
@@ -627,7 +620,7 @@
     "companyWebsite": "https://www.nccgroup.com/",
     "careersPage": "https://nccgroup.pinpointhq.com/",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Netscout",
@@ -662,7 +655,7 @@
     "companyWebsite": "https://www.optiv.com/",
     "careersPage": "https://www.optiv.com/careers",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity, tech"
   },
   {
     "companyName": "Praetorian",
@@ -676,7 +669,7 @@
     "companyWebsite": "https://www.reliaquest.com/",
     "careersPage": "https://www.reliaquest.com/careers/",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "RSA",
@@ -746,7 +739,7 @@
     "companyWebsite": "https://www.withsecure.com/",
     "careersPage": "https://www.withsecure.com/en/about-us/careers/",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Wiz",
@@ -858,7 +851,7 @@
     "companyWebsite": "https://www.aikido.dev/",
     "careersPage": "https://www.aikido.dev/careers",
     "notes": "",
-    "category": "Cybersecurity, Tech"
+    "category": "cybersecurity, tech"
   },
   {
     "companyName": "Aitech",
@@ -893,7 +886,7 @@
     "companyWebsite": "https://www.allot.com/",
     "careersPage": "https://www.allot.com/careers/",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Amplify Partners",
@@ -1040,7 +1033,7 @@
     "companyWebsite": "https://www.attackiq.com/",
     "careersPage": "https://www.attackiq.com/careers/",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Aura",
@@ -1173,7 +1166,14 @@
     "companyWebsite": "https://bolster.ai/",
     "careersPage": "https://bolster.ai/career",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
+  },
+  {
+    "companyName": "Chainguard",
+    "companyWebsite": "https:\/\/www.chainguard.dev\/",
+    "careersPage": "https:\/\/www.chainguard.dev\/careers",
+    "notes": "",
+    "category": "cybersecurity"
   },
   {
     "companyName": "Bonfy",
@@ -1187,7 +1187,7 @@
     "companyWebsite": "https://www.breachlock.com/",
     "careersPage": "https://www.breachlock.com/careers/",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Brickhouse Security",
@@ -1467,7 +1467,7 @@
     "companyWebsite": "https://cribl.io/",
     "careersPage": "https://cribl.io/careers/",
     "notes": "",
-    "category": "Tech, Cybersecurity"
+    "category": "tech, cybersecurity"
   },
   {
     "companyName": "Crowdfense",
@@ -1696,9 +1696,9 @@
   {
     "companyName": "Dataminr",
     "companyWebsite": "https://www.dataminr.com/",
-    "careersPage": "https://www.dataminr.com/careers/",
+    "careersPage": "https://www.dataminr.com/company/careers/",
     "notes": "",
-    "category": "Cybersecurity, Tech"
+    "category": "cybersecurity, tech"
   },
   {
     "companyName": "Dazz",
@@ -1768,7 +1768,7 @@
     "companyWebsite": "https://delinea.com/",
     "careersPage": "https://delinea.com/careers",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Delve",
@@ -1780,9 +1780,9 @@
   {
     "companyName": "Detectify",
     "companyWebsite": "https://detectify.com/",
-    "careersPage": "https://career.detectify.com/",
+    "careersPage": "https://careers.detectify.com/",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Digicert",
@@ -2328,7 +2328,7 @@
     "companyWebsite": "https://www.infoblox.com/",
     "careersPage": "https://www.infoblox.com/company/careers/",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Insane Cyber",
@@ -2356,7 +2356,7 @@
     "companyWebsite": "https://intel471.com/",
     "careersPage": "https://intel471.com/company/careers",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Interlaced",
@@ -2783,7 +2783,7 @@
     "companyWebsite": "https://www.netspi.com/",
     "careersPage": "https://www.netspi.com/company/careers/",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "NetWitness",
@@ -2835,11 +2835,11 @@
     "category": "Cybersecurity"
   },
   {
-    "companyName": "Nokod Security",
-    "companyWebsite": "https://nokodsecurity.com/",
-    "careersPage": "https://nokodsecurity.com/about-us/careers/",
+    "companyName": "Kanopy Security",
+    "companyWebsite": "https://kanopysecurity.com/",
+    "careersPage": "https://kanopysecurity.com/about-us/",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Noma Security",
@@ -3350,7 +3350,7 @@
     "companyWebsite": "https://www.recordedfuture.com/",
     "careersPage": "https://www.recordedfuture.com/careers",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "RedSeal",
@@ -3602,7 +3602,7 @@
     "companyWebsite": "https://snyk.io/",
     "careersPage": "https://snyk.io/careers/",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Socket",
@@ -3644,7 +3644,7 @@
     "companyWebsite": "https://www.sonicwall.com/",
     "careersPage": "https://www.sonicwall.com/about-sonicwall/careers",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "SoSafe",
@@ -3735,7 +3735,7 @@
     "companyWebsite": "https://swimlane.com/",
     "careersPage": "https://swimlane.com/careers/",
     "notes": "",
-    "category": "Cybersecurity, Tech"
+    "category": "cybersecurity, tech"
   },
   {
     "companyName": "Sycurio",
@@ -3749,14 +3749,14 @@
     "companyWebsite": "https://www.synack.com/",
     "careersPage": "https://www.synack.com/careers/",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Synopsys",
     "companyWebsite": "https://www.synopsys.com/",
     "careersPage": "https://careers.synopsys.com/",
     "notes": "",
-    "category": "Cybersecurity, Tech"
+    "category": "cybersecurity, tech"
   },
   {
     "companyName": "tailscale",
@@ -3826,7 +3826,7 @@
     "companyWebsite": "https://www.tidalcyber.com/",
     "careersPage": "https://www.tidalcyber.com/careers",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Tigera",
@@ -4064,7 +4064,7 @@
     "companyWebsite": "https://www.watchguard.com/",
     "careersPage": "https://www.watchguard.com/wgrd-careers",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "watchTowr",
