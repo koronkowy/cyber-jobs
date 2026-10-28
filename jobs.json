@@ -494,7 +494,7 @@
     "companyWebsite": "https://www.constellis.com/",
     "careersPage": "https://myjobs.adp.com/constelliscareers",
     "notes": "",
-    "category": "Defence"
+    "category": "defence, tech, cybersecurity"
   },
   {
     "companyName": "Crisis24",
@@ -508,7 +508,7 @@
     "companyWebsite": "https://www.criticalstart.com/",
     "careersPage": "https://careers-criticalstart.icims.com/",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Crown Castle",
@@ -592,14 +592,14 @@
     "companyWebsite": "https://jfrog.com/",
     "careersPage": "https://join.jfrog.com/",
     "notes": "",
-    "category": "Cybersecurity, Tech"
+    "category": "cybersecurity, tech"
   },
   {
     "companyName": "KnowBe4",
     "companyWebsite": "https://www.knowbe4.com/",
     "careersPage": "https://www.knowbe4.com/careers",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Malwarebytes",
@@ -1075,7 +1075,7 @@
     "companyWebsite": "https://www.aryon.security/",
     "careersPage": "https://www.aryon.security/careers",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Babel Street",
@@ -1565,7 +1565,7 @@
     "companyWebsite": "https://www.cybernx.com/",
     "careersPage": "https://www.cybernx.com/careers/",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "CyberRisk Alliance",
@@ -1600,7 +1600,7 @@
     "companyWebsite": "https://cycode.com/",
     "careersPage": "https://cycode.com/careers/",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "CyCognito",
@@ -1866,7 +1866,7 @@
     "companyWebsite": "https://www.druva.com/",
     "careersPage": "https://www.druva.com/about/careers",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "tech"
   },
   {
     "companyName": "DSP-Eclipsys",
@@ -2090,7 +2090,7 @@
     "companyWebsite": "https://www.geordie.ai/",
     "careersPage": "https://jobs.ashbyhq.com/geordieai",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "GitGuardian",
@@ -2275,13 +2275,6 @@
     "category": "Cybersecurity"
   },
   {
-    "companyName": "Identiq",
-    "companyWebsite": "https://www.identiq.com/",
-    "careersPage": "https://www.identiq.com/careers/",
-    "notes": "",
-    "category": "Cybersecurity"
-  },
-  {
     "companyName": "Immersivelabs",
     "companyWebsite": "https://www.immersivelabs.com/",
     "careersPage": "https://www.immersivelabs.com/careers",
@@ -2294,6 +2287,13 @@
     "careersPage": "https://www.immuniweb.com/company/careers/",
     "notes": "",
     "category": "Cybersecurity"
+  },
+  {
+    "companyName": "Incode",
+    "companyWebsite": "https:\/\/www.incode.com\/",
+    "careersPage": "https:\/\/www.incode.com\/careers\/",
+    "notes": "",
+    "category": "cybersecurity, tech"
   },
   {
     "companyName": "Immuta",
@@ -2580,7 +2580,7 @@
     "companyWebsite": "https://levelblue.com/",
     "careersPage": "https://levelblue.com/company/careers/",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Leviathan Security Group",
@@ -2993,7 +2993,7 @@
     "companyWebsite": "https://www.ooda.com/",
     "careersPage": "https://www.ooda.com/careers/",
     "notes": "",
-    "category": "Defence"
+    "category": "defence, cybersecurity"
   },
   {
     "companyName": "Opsera",
@@ -3742,7 +3742,7 @@
     "companyWebsite": "https://sycurio.com/",
     "careersPage": "https://careers.sycurio.com/",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "tech"
   },
   {
     "companyName": "Synack",
@@ -4155,7 +4155,7 @@
     "companyWebsite": "https://zeronetworks.com/",
     "careersPage": "https://zeronetworks.com/careers",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity, tech"
   },
   {
     "companyName": "ZeroEyes",
