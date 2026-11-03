@@ -18,7 +18,7 @@
     "companyWebsite": "https://www.att.com/",
     "careersPage": "https://www.att.jobs/",
     "notes": "",
-    "category": "Tech, Cybersecurity"
+    "category": "tech, cybersecurity"
   },
   {
     "companyName": "Battelle",
@@ -74,7 +74,7 @@
     "companyWebsite": "https://www.ibm.com/",
     "careersPage": "https://www.ibm.com/careers",
     "notes": "",
-    "category": "Tech, Cybersecurity"
+    "category": "tech, cybersecurity"
   },
   {
     "companyName": "Kyndryl",
@@ -109,7 +109,7 @@
     "companyWebsite": "https://www.mitre.org/",
     "careersPage": "https://www.mitre.org/careers",
     "notes": "",
-    "category": "Cybersecurity, Tech, Defence, Nonprofit"
+    "category": "cybersecurity, tech, defence, nonprofit"
   },
   {
     "companyName": "Northrop Grumman",
@@ -151,7 +151,7 @@
     "companyWebsite": "https://www.wipro.com/",
     "careersPage": "https://careers.wipro.com/",
     "notes": "",
-    "category": "Cybersecurity, Tech"
+    "category": "cybersecurity, tech"
   },
   {
     "companyName": "Acronis",
@@ -347,7 +347,7 @@
     "companyWebsite": "https://www.sailpoint.com/",
     "careersPage": "https://sailpoint.wd1.myworkdayjobs.com/SailPoint/jobs",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity, tech"
   },
   {
     "companyName": "SolarWinds",
@@ -452,7 +452,7 @@
     "companyWebsite": "https://www.bitsight.com/",
     "careersPage": "https://www.bitsight.com/about/careers",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Bugcrowd",
@@ -809,7 +809,7 @@
     "companyWebsite": "https://www.adaptivesecurity.com/",
     "careersPage": "https://www.adaptivesecurity.com/careers",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "ADT",
@@ -921,7 +921,7 @@
     "companyWebsite": "https://www.networkdefense.co/",
     "careersPage": "https://www.networkdefense.co/careers/",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Aqua Security",
@@ -963,7 +963,7 @@
     "companyWebsite": "https://arpio.io/",
     "careersPage": "https://arpio.io/careers/",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Array",
@@ -1670,7 +1670,7 @@
     "companyWebsite": "https://www.datagrail.io/",
     "careersPage": "https://www.datagrail.io/careers/",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Dataminr",
@@ -1733,7 +1733,7 @@
     "companyWebsite": "https://www.defendify.com/",
     "careersPage": "https://www.defendify.com/company/careers/",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "DeleteMe",
@@ -2111,14 +2111,14 @@
     "companyWebsite": "https://www.ghs.com/",
     "careersPage": "https://www.ghs.com/corporate/jobs.html",
     "notes": "",
-    "category": "Cybersecurity, Tech"
+    "category": "cybersecurity, tech, defence"
   },
   {
     "companyName": "Grip Security",
     "companyWebsite": "https://www.grip.security/",
     "careersPage": "https://www.comeet.com/jobs/grip/A8.001",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Group-IB",
@@ -2154,13 +2154,6 @@
     "careersPage": "https://www.harness.io/company/careers",
     "notes": "",
     "category": "tech, cybersecurity"
-  },
-  {
-    "companyName": "Hello Privacy",
-    "companyWebsite": "https://helloprivacy.com/",
-    "careersPage": "https://brandyourself.com/careers/",
-    "notes": "",
-    "category": "Cybersecurity, Tech"
   },
   {
     "companyName": "Hexagon",
@@ -2461,7 +2454,7 @@
     "companyWebsite": "https://www.kanary.com/",
     "careersPage": "https://www.kanary.com/join-the-team",
     "notes": "",
-    "category": "Cybersecurity, Tech"
+    "category": "cybersecurity, tech"
   },
   {
     "companyName": "Kaseware",
@@ -2895,7 +2888,7 @@
     "companyWebsite": "https://ondefend.com/",
     "careersPage": "https://ondefend.com/join-the-team/",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "One Identity",
@@ -3011,10 +3004,10 @@
   },
   {
     "companyName": "Overwatch Data",
-    "companyWebsite": "https://www.overwatchdata.ai/",
-    "careersPage": "https://www.ycombinator.com/companies/overwatch/jobs",
+    "companyWebsite": "https:\/\/www.overwatchdata.ai\/",
+    "careersPage": "https:\/\/www.overwatchdata.ai\/careers",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Own Backup",
@@ -3091,7 +3084,7 @@
     "companyWebsite": "https://www.picussecurity.com/",
     "careersPage": "https://www.picussecurity.com/careers-at-picus",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Pindrop",
@@ -3287,7 +3280,7 @@
     "companyWebsite": "https://realm.security/",
     "careersPage": "https://realm.security/jobs/",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "ReasonLabs",
@@ -3315,7 +3308,7 @@
     "companyWebsite": "https://www.redseal.net/",
     "careersPage": "https://www.redseal.net/company/careers/",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "Relyance AI",
@@ -3350,7 +3343,7 @@
     "companyWebsite": "https://ridgesecurity.ai/",
     "careersPage": "https://ridgesecurity.ai/jobs/",
     "notes": "",
-    "category": "Cybersecurity"
+    "category": "cybersecurity"
   },
   {
     "companyName": "SAFE",
